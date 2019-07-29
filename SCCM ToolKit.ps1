@@ -334,7 +334,7 @@ foreach ($item in $itemlist)
 	}
 	function InstallSCCM {
 		New-Item -Path "%windir%\" -Name "CCM" -ItemType "directory"
-		cmd /c 'copy "\\dbfsvs02.erau.edu\itdb\Software\SCCM\Client\ccmsetup\ccmsetup.exe" "%windir%\CCM\ccmsetup.exe" /Z /Y'
+		cmd /c 'copy "\\servername\SCCM\Client\ccmsetup\ccmsetup.exe" "%windir%\CCM\ccmsetup.exe" /Z /Y'
 		cmd /c "%windir%\CCM\ccmsetup.exe /forceinstall"
 		taskmgr
 		Invoke-Item c:\windows\ccmsetup\
