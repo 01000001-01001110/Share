@@ -6,44 +6,47 @@
 #------------------------------------------------------------------------
 #region File Recovery Data (DO NOT MODIFY)
 <#RecoveryData:
-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
-TZXNv8Av8gP+rzT5/S9ANkMJqQgAAA==#>
+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
+gd+TH/B/Q9fvfwAceGBvgwkAAA==#>
 #endregion
 
 <#
     .NOTES
     --------------------------------------------------------------------------------
      Code generated by:  SAPIEN Technologies, Inc., PowerShell Studio 2019 v5.6.165
-     Generated on:       7/30/2019 10:28 AM
+     Generated on:       7/30/2019 3:49 PM
      Generated by:       Support.newingha
     --------------------------------------------------------------------------------
     .DESCRIPTION
@@ -67,6 +70,7 @@ function Show-xzcz_psf {
 	#----------------------------------------------
 	[void][reflection.assembly]::Load('System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a')
 	[void][reflection.assembly]::Load('System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089')
+	[void][reflection.assembly]::Load('System.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a')
 	#endregion Import Assemblies
 
 	#----------------------------------------------
@@ -102,6 +106,8 @@ function Show-xzcz_psf {
 	$labelNewinghaerauedu = New-Object 'System.Windows.Forms.Label'
 	$labelContact = New-Object 'System.Windows.Forms.Label'
 	$richtextbox1 = New-Object 'System.Windows.Forms.RichTextBox'
+	$menustrip1 = New-Object 'System.Windows.Forms.MenuStrip'
+	$aboutToolStripMenuItem = New-Object 'System.Windows.Forms.ToolStripMenuItem'
 	$InitialFormWindowState = New-Object 'System.Windows.Forms.FormWindowState'
 	#endregion Generated Form Objects
 
@@ -118,7 +124,214 @@ function Show-xzcz_psf {
 	$formSCCMToolKit_Load={
 		
 	}
-	
+	function Show-AboutForm_psf
+	{
+		
+		#----------------------------------------------
+		#region Import the Assemblies
+		#----------------------------------------------
+		[void][reflection.assembly]::Load('System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089')
+		[void][reflection.assembly]::Load('System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a')
+		#endregion Import Assemblies
+		
+		#----------------------------------------------
+		#region Generated Form Objects
+		#----------------------------------------------
+		[System.Windows.Forms.Application]::EnableVisualStyles()
+		$formAboutTheAuthor = New-Object 'System.Windows.Forms.Form'
+		$picturebox1 = New-Object 'System.Windows.Forms.PictureBox'
+		$labelWrittenInPowerShellS = New-Object 'System.Windows.Forms.Label'
+		$labelAlannewinghamgmailco = New-Object 'System.Windows.Forms.Label'
+		$labelEmail = New-Object 'System.Windows.Forms.Label'
+		$labelAlanNewingham = New-Object 'System.Windows.Forms.Label'
+		$labelAuthor = New-Object 'System.Windows.Forms.Label'
+		$buttonOK = New-Object 'System.Windows.Forms.Button'
+		$InitialFormWindowState = New-Object 'System.Windows.Forms.FormWindowState'
+		#endregion Generated Form Objects
+		
+		#----------------------------------------------
+		# User Generated Script
+		#----------------------------------------------
+		
+		$formAboutTheAuthor_Load = {
+			#TODO: Initialize Form Controls here
+			
+		}
+		
+		# --End User Generated Script--
+		#----------------------------------------------
+		#region Generated Events
+		#----------------------------------------------
+		
+		$Form_StateCorrection_Load =
+		{
+			#Correct the initial state of the form to prevent the .Net maximized form issue
+			$formAboutTheAuthor.WindowState = $InitialFormWindowState
+		}
+		
+		$Form_Cleanup_FormClosed =
+		{
+			#Remove all event handlers from the controls
+			try
+			{
+				$formAboutTheAuthor.remove_Load($formAboutTheAuthor_Load)
+				$formAboutTheAuthor.remove_Load($Form_StateCorrection_Load)
+				$formAboutTheAuthor.remove_FormClosed($Form_Cleanup_FormClosed)
+			}
+			catch { Out-Null <# Prevent PSScriptAnalyzer warning #> }
+		}
+		#endregion Generated Events
+		
+		#----------------------------------------------
+		#region Generated Form Code
+		#----------------------------------------------
+		$formAboutTheAuthor.SuspendLayout()
+		$picturebox1.BeginInit()
+		#
+		# formAboutTheAuthor
+		#
+		$formAboutTheAuthor.Controls.Add($picturebox1)
+		$formAboutTheAuthor.Controls.Add($labelWrittenInPowerShellS)
+		$formAboutTheAuthor.Controls.Add($labelAlannewinghamgmailco)
+		$formAboutTheAuthor.Controls.Add($labelEmail)
+		$formAboutTheAuthor.Controls.Add($labelAlanNewingham)
+		$formAboutTheAuthor.Controls.Add($labelAuthor)
+		$formAboutTheAuthor.Controls.Add($buttonOK)
+		$formAboutTheAuthor.AcceptButton = $buttonOK
+		$formAboutTheAuthor.AutoScaleDimensions = '6, 13'
+		$formAboutTheAuthor.AutoScaleMode = 'Font'
+		$formAboutTheAuthor.ClientSize = '284, 262'
+		$formAboutTheAuthor.FormBorderStyle = 'FixedDialog'
+		$formAboutTheAuthor.MaximizeBox = $False
+		$formAboutTheAuthor.MinimizeBox = $False
+		$formAboutTheAuthor.Name = 'formAboutTheAuthor'
+		$formAboutTheAuthor.StartPosition = 'CenterScreen'
+		$formAboutTheAuthor.Text = 'About the Author'
+		$formAboutTheAuthor.add_Load($formAboutTheAuthor_Load)
+		#
+		# picturebox1
+		#
+		#region Binary Data
+		$picturebox1.Image = [System.Convert]::FromBase64String('
+	R0lGODlhdAB0AIcAAAAAAAAAMwAAZgAAmQAAzAAA/wArAAArMwArZgArmQArzAAr/wBVAABVMwBV
+	ZgBVmQBVzABV/wCAAACAMwCAZgCAmQCAzACA/wCqAACqMwCqZgCqmQCqzACq/wDVAADVMwDVZgDV
+	mQDVzADV/wD/AAD/MwD/ZgD/mQD/zAD//zMAADMAMzMAZjMAmTMAzDMA/zMrADMrMzMrZjMrmTMr
+	zDMr/zNVADNVMzNVZjNVmTNVzDNV/zOAADOAMzOAZjOAmTOAzDOA/zOqADOqMzOqZjOqmTOqzDOq
+	/zPVADPVMzPVZjPVmTPVzDPV/zP/ADP/MzP/ZjP/mTP/zDP//2YAAGYAM2YAZmYAmWYAzGYA/2Yr
+	AGYrM2YrZmYrmWYrzGYr/2ZVAGZVM2ZVZmZVmWZVzGZV/2aAAGaAM2aAZmaAmWaAzGaA/2aqAGaq
+	M2aqZmaqmWaqzGaq/2bVAGbVM2bVZmbVmWbVzGbV/2b/AGb/M2b/Zmb/mWb/zGb//5kAAJkAM5kA
+	ZpkAmZkAzJkA/5krAJkrM5krZpkrmZkrzJkr/5lVAJlVM5lVZplVmZlVzJlV/5mAAJmAM5mAZpmA
+	mZmAzJmA/5mqAJmqM5mqZpmqmZmqzJmq/5nVAJnVM5nVZpnVmZnVzJnV/5n/AJn/M5n/Zpn/mZn/
+	zJn//8wAAMwAM8wAZswAmcwAzMwA/8wrAMwrM8wrZswrmcwrzMwr/8xVAMxVM8xVZsxVmcxVzMxV
+	/8yAAMyAM8yAZsyAmcyAzMyA/8yqAMyqM8yqZsyqmcyqzMyq/8zVAMzVM8zVZszVmczVzMzV/8z/
+	AMz/M8z/Zsz/mcz/zMz///8AAP8AM/8AZv8Amf8AzP8A//8rAP8rM/8rZv8rmf8rzP8r//9VAP9V
+	M/9VZv9Vmf9VzP9V//+AAP+AM/+AZv+Amf+AzP+A//+qAP+qM/+qZv+qmf+qzP+q///VAP/VM//V
+	Zv/Vmf/VzP/V////AP//M///Zv//mf//zP///wAAAAAAAAAAAAAAACH/C05FVFNDQVBFMi4wAwEB
+	AAAh+QQBAAD8ACwAAAAAdAB0AAAI/wABCBxIsKDBg/sS7jvIsKDChxAjJiT4kKLChhgzatwIoCJH
+	hxJDehQ4suPFjyhTIjypUqTLhQNLllRJ8+NMmy9DWpwYk2XNhjl19oy4EybJoDyPJjXpsijSpU6f
+	Rl0qU+pQo0xFTg3K8CnErUW3ClWKNafYl129+hyb9SzRq27LqoUKN2PVt2TD1sXI9i7WtHTz2l0r
+	Ua/gw0AL7207ODBjvoTxPp5802DfyH9XOq4MkqpixH41Xvbs2HDnzJYxA5YrWbRVxKtjN2aNmvLn
+	jV5Ny05dejFnv5xXm128+7Rr0rWB+zzOlbjm5Muf6/4JOjpv2syLFw9OM/Ts6de1S/93Tt07ZOTZ
+	x5/HTt04efew1Z/O/d584tZXlSMV/nqyae5k/XbbXJsRCJ5tvQVoXVb6NXcdffFVlyCDC46mVnv3
+	sSehhghyiOGHvqkWInoj1gZieSJu+F+K/p2IoX0wsmjfiwQOp+B++bEYV408opUjjjd6+GOPRNpI
+	IZBHChlkkUwOaOCQBzYpmZEAughfiy3dFteBVspXJXMCNvVel+GNiRN+S+pI5nYLomSheBuGyeOa
+	6ZVpZ5L8zUXnd/KtiGaSEO7ZZ32YyVmjoLhpWSKYbS46aJp/suWniVDyGSGWgCoaJJsTSuplhaAi
+	CdannWp6pZx5ajVbg55eWiWqZ1L/+mChPt7JJaET3jorckZG2airv17JKK+1CmsmsLkem+iUtEba
+	36SBfllpnKYGCm1/0m5aYquZOkssktniuW21z44LbrMcGhrspKmu+SauX8Xq6580MkvirrKeGmq8
+	Xb6LLL/LKikuiIeS2etzr+67o6n1qrpewgV+66CVB+Nbp756Glxsu5Yaa/GQEKdLrr0XxspqsDF6
+	C3DBHFnILbvTzoduxRmeXOq9A8ssMc1FLpzsneruPPOTkALsppraFu3zxNbKC6/NtPUMMsMdBx21
+	kzhfzDPRHR59c77Xqhwt0hlerPXGU4upotPreX212NiSDWe3DusMdnsuxy202nYj9pr3uXvXPeqe
+	fzM9NN+D01k4lejOO7HZHTtuteRot822xzknbvXLj5bdObf+2s25rZE/vS68MLeMtcBuh8wp6wjL
+	ePrDKCvsqOok6xqw66TC/vHaKJIsJXQ/d73q6osTOffrw65c7PCw4u473VumPWfnzB8vPNXB3610
+	7BFPH67brY9s9O2e9zs79eATL/765JtsfvSYUg6487n3nmqDYRu+fdboq17SOjS2/wlsRtbT3OHq
+	VjjH2Q9/ENQdAr9Hu+KVL3+W+9foMncixn3tgSEbn/wwmD5M0SxxLvJgvqA2uZglj28TxNjjXIi8
+	BYaOd0Vr4QBfyHFAuZlLcDQ04NJStsLGme6D2juf9M5GQhRiL4HdqZ3EHgg5fInwUv2jYumsCD/r
+	8RCHopOi+5qnwhMeUYmYC6HeZkg6CpZQglxrWhvZl0HMpdCIOTRfw3QXvx1yjY9V62Idv6hHvPkw
+	S1P0YiG7V5SAAAA7')
+		#endregion
+		$picturebox1.Location = '84, 41'
+		$picturebox1.Name = 'picturebox1'
+		$picturebox1.Size = '116, 116'
+		$picturebox1.TabIndex = 6
+		$picturebox1.TabStop = $False
+		#
+		# labelWrittenInPowerShellS
+		#
+		$labelWrittenInPowerShellS.AutoSize = $True
+		$labelWrittenInPowerShellS.Location = '15, 232'
+		$labelWrittenInPowerShellS.Name = 'labelWrittenInPowerShellS'
+		$labelWrittenInPowerShellS.Size = '176, 17'
+		$labelWrittenInPowerShellS.TabIndex = 5
+		$labelWrittenInPowerShellS.Text = 'Written in PowerShell Studio 2019'
+		$labelWrittenInPowerShellS.UseCompatibleTextRendering = $True
+		#
+		# labelAlannewinghamgmailco
+		#
+		$labelAlannewinghamgmailco.AutoSize = $True
+		$labelAlannewinghamgmailco.Location = '89, 207'
+		$labelAlannewinghamgmailco.Name = 'labelAlannewinghamgmailco'
+		$labelAlannewinghamgmailco.Size = '150, 17'
+		$labelAlannewinghamgmailco.TabIndex = 4
+		$labelAlannewinghamgmailco.Text = 'alan.newingham@gmail.com'
+		$labelAlannewinghamgmailco.UseCompatibleTextRendering = $True
+		#
+		# labelEmail
+		#
+		$labelEmail.AutoSize = $True
+		$labelEmail.Location = '46, 207'
+		$labelEmail.Name = 'labelEmail'
+		$labelEmail.Size = '36, 17'
+		$labelEmail.TabIndex = 3
+		$labelEmail.Text = 'Email:'
+		$labelEmail.UseCompatibleTextRendering = $True
+		#
+		# labelAlanNewingham
+		#
+		$labelAlanNewingham.AutoSize = $True
+		$labelAlanNewingham.Location = '121, 190'
+		$labelAlanNewingham.Name = 'labelAlanNewingham'
+		$labelAlanNewingham.Size = '90, 17'
+		$labelAlanNewingham.TabIndex = 2
+		$labelAlanNewingham.Text = 'Alan Newingham'
+		$labelAlanNewingham.UseCompatibleTextRendering = $True
+		#
+		# labelAuthor
+		#
+		$labelAuthor.AutoSize = $True
+		$labelAuthor.Location = '73, 190'
+		$labelAuthor.Name = 'labelAuthor'
+		$labelAuthor.Size = '41, 17'
+		$labelAuthor.TabIndex = 1
+		$labelAuthor.Text = 'Author:'
+		$labelAuthor.UseCompatibleTextRendering = $True
+		#
+		# buttonOK
+		#
+		$buttonOK.Anchor = 'Bottom, Right'
+		$buttonOK.DialogResult = 'OK'
+		$buttonOK.Location = '197, 227'
+		$buttonOK.Name = 'buttonOK'
+		$buttonOK.Size = '75, 23'
+		$buttonOK.TabIndex = 0
+		$buttonOK.Text = '&OK'
+		$buttonOK.UseCompatibleTextRendering = $True
+		$buttonOK.UseVisualStyleBackColor = $True
+		$picturebox1.EndInit()
+		$formAboutTheAuthor.ResumeLayout()
+		#endregion Generated Form Code
+		
+		#----------------------------------------------
+		
+		#Save the initial state of the form
+		$InitialFormWindowState = $formAboutTheAuthor.WindowState
+		#Init the OnLoad event to correct the initial state of the form
+		$formAboutTheAuthor.add_Load($Form_StateCorrection_Load)
+		#Clean up the control events
+		$formAboutTheAuthor.add_FormClosed($Form_Cleanup_FormClosed)
+		#Show the Form
+		return $formAboutTheAuthor.ShowDialog()
+		
+	}
 	function rebuildWMI
 	{
 		function DisableService([System.ServiceProcess.ServiceController]$svc)
@@ -375,14 +588,14 @@ function Show-xzcz_psf {
 	
 	function ResetRepo
 	{
-		net stop winmgmt
+		cmd /c "net stop winmgmt /y"
 		$ResetRepo1 = (winmgmt /resetRepository) | Out-String
 		$richtextbox1.Text += $ResetRepo1
 	}
 	function InstallSCCM
 	{
 		New-Item -Path "%windir%\" -Name "CCM" -ItemType "directory"
-		cmd /c 'copy "\\fileserver\SCCM\Client\ccmsetup\ccmsetup.exe" "%windir%\CCM\ccmsetup.exe" /Z /Y'
+		cmd /c 'copy "\\SERVERNAME\SCCM\Client\ccmsetup\ccmsetup.exe" "%windir%\CCM\ccmsetup.exe" /Z /Y'
 		cmd /c "%windir%\CCM\ccmsetup.exe /forceinstall"
 		taskmgr
 		Invoke-Item c:\windows\ccmsetup\
@@ -438,6 +651,11 @@ function Show-xzcz_psf {
 		
 	}
 	
+	$aboutToolStripMenuItem_Click={
+		#TODO: Place custom script here
+		Show-AboutForm_psf
+	}
+	
 	# --End User Generated Script--
 	#----------------------------------------------
 	#region Generated Events
@@ -467,6 +685,7 @@ function Show-xzcz_psf {
 			$buttonRunMachinePolicy.remove_Click($buttonRunMachinePolicy_Click)
 			$buttonRestartConfigMan.remove_Click($buttonRestartConfigMan_Click)
 			$formSCCMToolKit.remove_Load($formSCCMToolKit_Load)
+			$aboutToolStripMenuItem.remove_Click($aboutToolStripMenuItem_Click)
 			$formSCCMToolKit.remove_Load($Form_StateCorrection_Load)
 			$formSCCMToolKit.remove_FormClosed($Form_Cleanup_FormClosed)
 		}
@@ -481,6 +700,7 @@ function Show-xzcz_psf {
 	$groupbox1.SuspendLayout()
 	$groupbox2.SuspendLayout()
 	$groupbox3.SuspendLayout()
+	$menustrip1.SuspendLayout()
 	#
 	# formSCCMToolKit
 	#
@@ -491,9 +711,11 @@ function Show-xzcz_psf {
 	$formSCCMToolKit.Controls.Add($labelNewinghaerauedu)
 	$formSCCMToolKit.Controls.Add($labelContact)
 	$formSCCMToolKit.Controls.Add($richtextbox1)
+	$formSCCMToolKit.Controls.Add($menustrip1)
 	$formSCCMToolKit.AutoScaleDimensions = '6, 13'
 	$formSCCMToolKit.AutoScaleMode = 'Font'
 	$formSCCMToolKit.ClientSize = '384, 461'
+	$formSCCMToolKit.MainMenuStrip = $menustrip1
 	$formSCCMToolKit.Name = 'formSCCMToolKit'
 	$formSCCMToolKit.Text = 'SCCM ToolKit'
 	$formSCCMToolKit.add_Load($formSCCMToolKit_Load)
@@ -777,7 +999,7 @@ function Show-xzcz_psf {
 	# labelSCCMToolKit011
 	#
 	$labelSCCMToolKit011.AutoSize = $True
-	$labelSCCMToolKit011.Location = '140, 13'
+	$labelSCCMToolKit011.Location = '139, 24'
 	$labelSCCMToolKit011.Name = 'labelSCCMToolKit011'
 	$labelSCCMToolKit011.Size = '104, 17'
 	$labelSCCMToolKit011.TabIndex = 3
@@ -811,6 +1033,23 @@ function Show-xzcz_psf {
 	$richtextbox1.Size = '359, 159'
 	$richtextbox1.TabIndex = 0
 	$richtextbox1.Text = ''
+	#
+	# menustrip1
+	#
+	[void]$menustrip1.Items.Add($aboutToolStripMenuItem)
+	$menustrip1.Location = '0, 0'
+	$menustrip1.Name = 'menustrip1'
+	$menustrip1.Size = '384, 24'
+	$menustrip1.TabIndex = 11
+	$menustrip1.Text = 'menustrip1'
+	#
+	# aboutToolStripMenuItem
+	#
+	$aboutToolStripMenuItem.Name = 'aboutToolStripMenuItem'
+	$aboutToolStripMenuItem.Size = '52, 20'
+	$aboutToolStripMenuItem.Text = 'About'
+	$aboutToolStripMenuItem.add_Click($aboutToolStripMenuItem_Click)
+	$menustrip1.ResumeLayout()
 	$groupbox3.ResumeLayout()
 	$groupbox2.ResumeLayout()
 	$groupbox1.ResumeLayout()
