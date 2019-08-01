@@ -385,7 +385,7 @@ S1P0YiG7V5SAAAA7')
 	#----------------------------------------------
 	
 	
-	function encryptAll
+	function encodeAll
 	{
 		$Text = $RichTextBox1.text
 		$Bytes = [System.Text.Encoding]::Unicode.GetBytes($Text)
@@ -393,7 +393,7 @@ S1P0YiG7V5SAAAA7')
 		$RichTextBox1.text = $EncodedText
 	}
 	
-	function decryptAll
+	function decodeAll
 	{
 		$EncodedText = $RichTextBox1.text
 		$DecodedText = [System.Text.Encoding]::Unicode.GetString([System.Convert]::FromBase64String($EncodedText))
@@ -412,11 +412,11 @@ S1P0YiG7V5SAAAA7')
 	}
 	
 	$buttonEncode_Click={
-		encryptAll
+		encodeAll
 	}
 	
 	$buttonDecode_Click={
-		decryptAll
+		decodeAll
 	}
 	
 	$buttonCopyToClipboard_Click={
