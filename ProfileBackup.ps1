@@ -6,63 +6,63 @@
 #------------------------------------------------------------------------
 #region File Recovery Data (DO NOT MODIFY)
 <#RecoveryData:
-8wwAAB+LCAAAAAAABABlV0cL9EqSvDf0f3jMVTDyDr55ILVcy7W8u0kt77379dP79rKwdSqSKqjK
-iMzI+GNl32HP5ouL1/iv32aphv4//0L/Df/r7+fjr7/+fOaqqPq4Fao20+Mu+7tI0yIv07woizwt
-/z0u+R/w/x3656owzN3f4JeHYD24eM9kmNeHezH/u1iGW3sRvod6cE+aRscVYIn0RNNixkgZQbRT
-WoVt4YzeRwEklpRKUU5mDeMbpJ8PwxJhv+GdQO23JENddawbkG+B/m07GEwGfZHGJ+ptN0Vh5DqQ
-mH5HvrrhsYZ9vXNNcydb1BEjPDQPnw+p7/cWv3MLz78DEpLsHG1N+30BSd+M7350uns913c3T0jc
-4seVObF+DxoSA2IZrRAV3fI0jbpSkS3/fLjl59rM/eM2abGZ+ao4ySbGse/dO3fl1YsATX1BVq43
-F9knCN3J0kotW96kujOat9vyXegbiPeAj/HzcVjlKJQ8b6WfoJcrDB9TgYb9FVNw5BssUrsnfuOe
-3EJfHWWGXtOoSNNs3ZkgHs4QSLvPJUSe5ZQny/MhVKJrEdW72tkP2AxDDepw+cGhj+y8RWJy9LNZ
-DRgAqq6+PdfpI5oAX20HtJBFqafAeTl+Ts3mpTskPx+Uc3wvBE9/EV0vpwptmfCt+QoVVybmAV0s
-Mb2AS68Ild9Nu9KSNyQGm+xNqiRj7w9Dmlo1TzWNfE3Ph33Prstxyilh1Nv2nTrrbRPag8OU3bY1
-dEMvBxj1mm5/p0rtxnw1a/cC2GTJtRnjLfviYYE9ofRLqp6P4H6fo2p2VzK6yZqXm5j1rtK792e3
-aTCGiu69J3CDSavT4Q4fd/tgfITkc4OyM8wTd6vJXcgW3060+nzAdnQ1gqC1I78oHXMLrc5A1JZU
-LAlcDjhCnU4iTdz5b8c4jxky5waWYoWtVJzdqQb/TonX10Qpqrb4++kO+0EFNoCOuaIdExYZsNBx
-s56LndrgLAw5BBMqp1nZA4osZ9eXh/G8IBSbZnaQ33HmMCLCijca654P9Vu+89ZTRz4wdeniQ8pT
-qHvS2reM7GNUA/2aBQRMr3niIbsQTweRYYsIGrSI7qzOJefei/d7gi3ixzck9fGoFPp7AaeZ9nY4
-8e3VT0Zp8+/di++lHtEEvNxq0QkSxGACsC1KJ6eFrz8vO2jWYASsFVcT7P1jSERuOtyXekTHwhdV
-6iaDaFFr2xcIVb46zyFStB4e+lFucPZGA0R9ZT3pmUuaDTIAqpYMlBEhChKYcc/HSK5KmM8EJvaA
-/60D+1rmOe/zExlBojVFMoSzdzoCbTcJ14ADPnhP1jk7HbICmtXs8obTGtp4aEVvz8d6hksGbPAq
-5CjWR1YJahPgFfO+cFXYim2t+1tNtDluHLBxAfisRqDkpX5/BzfBLHgDVxbQ/njMsb/Kct/Oilif
-LBeyNTA3opCCKH8H3lLlsVfRq3fVdb0NcfSGvBvjKE9WqrrO7CIcRn9nmqKGTscTidEhf3zz2pQs
-fbd2chEZoBbT34ma1SFsNjRX0BMSZg27B6qenfZXZvVKcHIpbtI7Ehfca3DIURzBvggr9I3X8+Hc
-PMwj74r1HNMXrvrdeE7+wcXztW1V3RpSl4a92riZ5MahhNyUb39PgpYiaEOysdAH9Dt9x/RrvDzz
-+TAhQXNDGjT4XgwIdsxNiBEnSjijZZMWg5u6gdDVjLWO00owsPNQTLN4Ukf92n/BF2dYAN4HFU9x
-H/L56FhZGF5zm9LgTnPe/J26KdunizCZfDm2q9T/R0Gcn4JwS3JFbfito/QF9GWrrIq3fSZ87MzA
-r0u7YZ8PqNYBo+N7+1wJ3y+VUmHGzYLrFxGP8Gb6UF1VZEYbr9L5urCyDrOVnG7oeeFsAUTWoKQN
-3Tew2khcPh9KaYgW2K0lI9Me28/bGq/+1zJyT2mKdwMYDBRr2hm3oMWNwkvodgWROZ2RzVnWVGy6
-G84r6+tDGNuPIeQwYaRW9fvc5eEIkm07RD4/CV0eUf3lcpJlO1PJMLlZJLbzgo6DSqluBb61PqSG
-2qjWZKAy1fKd9Kv6i/Nh1fjUvBY7iU9h7PZBIcMf86gI9/yjQASiwYf+UblPITJgvfbKcqMEX2A9
-OUUg+FonFUr5qr7M5vl48Tqk4CFcrqSgLS/3FY4euVtsypB2SHXOaQmpm3RFgxGiAuzkJ1TM+nXY
-6hQx20gFiCa5FilBZvD6oWCYVXYJiqTLgb475qXWTvwuShC/sq0ikHoATUo/9Cn1llTLiG7mmlhz
-tRfm2Al3Ym6HxGNss9nZp/bzgTI857ks9TI/a8+9gCjZZIv6RJOYOH3QouVg6QmTBzTc5Qka1+ih
-0qcmOmr89hDyw1388s63LQsye/2hwGKeEc9VRUBeVkP9meIKwFLv/pBpdttthoSzsosRJLeIfu3q
-YctQotivbLUuZ5ioMcNAXr1p4Nv/2Bt4xNeo4Ra1iyQVnOinqiYUlCV3j5NmZwL6klFi/jI6DkD6
-N5cnMLEma9kTDpnpERusmoVDDpfbwPihoCXp1ow/RstsHQDnbkCf7KsQslMcNEbnPGM2/dBwIKX6
-14mXsDmnU1DAr56PrEu5nMid0sGC52qdjefjvC9UPQbgs5hmLX+hr3dQfuc6SxPraN/KB6ERQRKL
-LHQxjBwfYX18tCNP12Z/t6xsSFrWqevVXYpw/zQrrDBZ533WXzbkLVr3YEsv+uDfMK520JGswUv/
-fsc3lpEreL9qPu/WAAcZolMWZCMyHH/TKQp1t4CCz0cyrmMhyWXS18pr15K+lQIJ/czWgQfokPj0
-TV7kjPYuaiemvB6qj9xy1x3DrzW5WtwQxba8VSarY+Knpxyoh47RgB0aG/VpqWgBcGMFFMXA2jVD
-jDlR9eEys4BYk4BQnbLIH1M+GocxhJ9L+iXRb/duHv0++2GaofQq7EXaub4VwjPTf5u3x4KKkmoI
-GCUnhhnKKhiG/NlV1oxvPfG0WQqNDo7olDLQhnSP/KdNOa9Lv/nNt8/LGCoFZ5bb6mxXP8rg3ZZ9
-wfvl2I3hAi3Vqv+mhGMZyhS+dmPC6jkcVxd8C0VmAE7S5U6OCEj0fITY5gFHFItaTzmxcLUbFUpX
-akq9tDR106cI6slfM8rT2pZbbTHYpUq3jgyDhCgyk16BPjtyjib3Kfu9LWYT3aIuUSUzTLXvOqMX
-Q5jhJHLwc2wO4pvMcdvY9aJTisc2WYp1R110UQ6Ap+H64EQz9vym1v7+6cI1sNZnOYMVsv1YZFTr
-gH6dXtnCwCHcL+Tra1V1JMEBIdt6lyz02PUbzt6lGPrNlhg0ea7uZK+30of98zH7R+ZqNyTKyxqi
-N9VZ5LJpYXgOkBS7m3dvCDiB10RbgvuzE//5A/5jN/4xHsyyZF3SVtnyF/iL/AH/r8n5+7+pKd/6
-8wwAAA==#>
+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
+e/kT/P+Lz1//BRf13A0HDQAA#>
 #endregion
 
 <#
     .NOTES
     --------------------------------------------------------------------------------
-     Code generated by:  SAPIEN Technologies, Inc., PowerShell Studio 2019 v5.6.165
-     Generated on:       8/2/2019 2:26 PM
-     Generated by:       Support.newingha
-    --------------------------------------------------------------------------------
-    .DESCRIPTION
-        GUI script generated by PowerShell Studio 2019
+     Form code generated by:  PowerShell Studio 2019
+     Generated on:       	  8/2/2019 9:07 AM
+	 Powershell Logic by:     Alan Newingham
+	 Contact: 		   	      alan.newingham@gmail.com
+	 Git:					  https://github.com/01000001-01001110/Share
+	--------------------------------------------------------------------------------
 #>
 
 
@@ -80,9 +80,8 @@ function Show-gddgfhdfghgfdh_psf {
 	#----------------------------------------------
 	#region Import the Assemblies
 	#----------------------------------------------
-	[void][reflection.assembly]::Load('System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a')
 	[void][reflection.assembly]::Load('System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089')
-	[void][reflection.assembly]::Load('System.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a')
+	[void][reflection.assembly]::Load('System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a')
 	#endregion Import Assemblies
 
 	#----------------------------------------------
@@ -90,8 +89,8 @@ function Show-gddgfhdfghgfdh_psf {
 	#----------------------------------------------
 	[System.Windows.Forms.Application]::EnableVisualStyles()
 	$formProfileBackup = New-Object 'System.Windows.Forms.Form'
+	$checkboxNewComputer = New-Object 'System.Windows.Forms.CheckBox'
 	$labelCheckDirectoryYouWan = New-Object 'System.Windows.Forms.Label'
-	$label1NoSpacesInLocations = New-Object 'System.Windows.Forms.Label'
 	$Info = New-Object 'System.Windows.Forms.GroupBox'
 	$labelenvUserName = New-Object 'System.Windows.Forms.Label'
 	$labelOSInstallDate = New-Object 'System.Windows.Forms.Label'
@@ -101,13 +100,14 @@ function Show-gddgfhdfghgfdh_psf {
 	$labelWindowsUser = New-Object 'System.Windows.Forms.Label'
 	$label1 = New-Object 'System.Windows.Forms.Label'
 	$labelDeviceName = New-Object 'System.Windows.Forms.Label'
-	$labelProfileBackup004 = New-Object 'System.Windows.Forms.Label'
+	$labelProfileBackup005 = New-Object 'System.Windows.Forms.Label'
 	$buttonPrograms = New-Object 'System.Windows.Forms.Button'
 	$buttonInventory = New-Object 'System.Windows.Forms.Button'
 	$buttonPrinters = New-Object 'System.Windows.Forms.Button'
 	$buttonBackup = New-Object 'System.Windows.Forms.Button'
 	$progressbar1 = New-Object 'System.Windows.Forms.ProgressBar'
 	$groupbox3 = New-Object 'System.Windows.Forms.GroupBox'
+	$checkboxOneDrive = New-Object 'System.Windows.Forms.CheckBox'
 	$checkboxCustomDirectory = New-Object 'System.Windows.Forms.CheckBox'
 	$textbox7 = New-Object 'System.Windows.Forms.TextBox'
 	$checkboxQuickparts = New-Object 'System.Windows.Forms.CheckBox'
@@ -220,6 +220,20 @@ function Show-gddgfhdfghgfdh_psf {
 	$TmpFile = [System.IO.Path]::GetTempFileName
 	$nl = [Environment]::NewLine
 	#End Region - Automatic System Information Gathering
+	
+	# Setting up Speech
+	# Need to load the System.Speech assembly
+	Add-Type -AssemblyName System.speech
+	
+	# Now we create the SpeechSynthesizer object.
+	$speak = New-Object System.Speech.Synthesis.SpeechSynthesizer
+	
+	# Setting voice
+	$speak.SelectVoice('Microsoft Zira Desktop')
+	
+	
+	
+	
 	function Get-Inventory
 	{
 		$InventoryScript = cmd /c "net use"
@@ -245,7 +259,14 @@ function Show-gddgfhdfghgfdh_psf {
 		$dest = $TextBox2.Text
 		If (Test-Path $source)
 		{
-			
+			If ($checkboxNewComputer.Checked)
+			{
+				cmd /c 'start "" "%ProgramFiles(x86)%\Microsoft Office\Office16\Outlook.exe"'
+				cmd /c 'start "" "%ProgramFiles(x86)%\Google\Chrome\Application\chrome.exe"'
+				cmd /c 'start "" "%ProgramFiles%\Mozilla Firefox\firefox.exe"'
+				cmd /c 'start control'
+				cmd /c 'start control /name Microsoft.DevicesAndPrinters'
+			}
 			If ($checkboxDesktop.Checked)
 			{
 				$ProgressBar1.Value = "15"
@@ -253,49 +274,62 @@ function Show-gddgfhdfghgfdh_psf {
 				#robocopy c:\users\newingha\Desktop e:\backup\why *.* /E /ZB /J /LOG+:$source\desktop\backuplog.txt
 				Robocopy $source\Desktop $dest\Desktop *.* /E /ZB /J /LOG+:$source\desktop\backuplog.txt
 				#$richtextbox1.Text = Robocopy $source\Desktop $dest\Desktop *.* /E /ZB /J /LOG+:$source\desktop\backuplog.txt | Out-String
-				$richtextbox1.Text += "Log file created successfully and being actively saved to: $source\desktop\backuplog.txt"
 				$richtextbox1.Text += "`nDesktop directory backed up successfully."
+				$speak.Speak("The Desktop directory completed backing up. Continuing backup.")
+				$richtextbox1.Text += "`n# # # # # # # # # #`n"
 				$ProgressBar1.Value = "30"
 			}
 			If ($checkboxDocuments.Checked)
 			{
 				Robocopy $source\Documents $dest\Documents *.* /E /ZB /J /LOG+:$source\desktop\backuplog.txt
 				$richtextbox1.Text += "`nDocuments directory backed up successfully."
+				$speak.Speak("The Documents directory completed backing up. Continuing backup.")
+				$richtextbox1.Text += "`n# # # # # # # # # #`n"
 				$ProgressBar1.Value = "45"
 			}
 			If ($checkboxDownloads.Checked)
 			{
 				Robocopy $source\Downloads $dest\Downloads *.* /E /ZB /J /LOG+:$source\desktop\backuplog.txt
 				$richtextbox1.Text += "`nDownloads directory backed up successfully."
+				$speak.Speak("The Downloads directory completed backing up. Continuing backup.")
+				$richtextbox1.Text += "`n# # # # # # # # # #`n"
 				$ProgressBar1.Value = "57"
 			}
 			If ($checkboxBrowsers.Checked)
 			{
-				$richtextbox1.Text += "`nInitializing Browser data backup. Please close the customer's browsers now."
+				$richtextbox1.Text += "Initializing Browser data backup, please close the customer's browsers now."
 				Robocopy $source\Favorites $dest\Favorites *.* /E /ZB /J /LOG+:$source\desktop\backuplog.txt
 				$ProgressBar1.Value = "60"
 				Robocopy $source\AppData\Local\Google $dest\AppData\Local\Google *.* /E /ZB /J /LOG+:$source\desktop\backuplog.txt
 				$ProgressBar1.Value = "63"
 				Robocopy $source\AppData\Roaming\Mozilla\Firefox\Profiles $dest\AppData\Roaming\Mozilla\Firefox\Profiles *.* /E /ZB /J /LOG+:$source\desktop\backuplog.txt
 				$richtextbox1.Text += "`nIE, FireFox, and Chrome Bookmark directories backed up successfully."
+				$speak.Speak("The Eye E, Fire Fox and Chrome Bookmarks directories completed backing up. Continuing backup.")
+				$richtextbox1.Text += "`n# # # # # # # # # #`n"
 				$ProgressBar1.Value = "65"
 			}
 			If ($checkboxPictures.Checked)
 			{
 				Robocopy $source\Pictures $dest\Pictures *.* /E /ZB /J /LOG+:$source\desktop\backuplog.txt
 				$richtextbox1.Text += "`nPictures directory backed up successfully."
+				$speak.Speak("The Pictures directory completed backing up. Continuing backup.")
+				$richtextbox1.Text += "`n# # # # # # # # # #`n"
 				$ProgressBar1.Value = "75"
 			}
 			If ($checkboxVideos.Checked)
 			{
 				Robocopy $source\Videos $dest\Videos *.* /E /ZB /J /LOG+:$source\desktop\backuplog.txt
 				$richtextbox1.Text += "`nVideos directory backed up successfully."
+				$speak.Speak("The Videos directory completed backing up. Continuing backup.")
+				$richtextbox1.Text += "`n# # # # # # # # # #`n"
 				$ProgressBar1.Value = "80"
 			}
 			If ($checkboxQuickparts.Checked)
 			{
 				Robocopy "$source\application data\microsoft\templates" "$dest\application data\microsoft\templates" *.* /E /ZB /J /LOG+:$source\desktop\backuplog.txt
 				$richtextbox1.Text += "`nQuickParts directory backed up successfully."
+				$speak.Speak("The Microsoft QuickParts completed backing up. Continuing backup.")
+				$richtextbox1.Text += "`n# # # # # # # # # #`n"
 				$ProgressBar1.Value = "90"
 			}
 			If ($checkboxCustomDirectory.Checked)
@@ -303,11 +337,26 @@ function Show-gddgfhdfghgfdh_psf {
 				$source = $textbox7.Text
 				Robocopy $source $dest\Custom_Directory_Backup *.* /E /ZB /J /LOG+:$source\desktop\backuplog.txt
 				$richtextbox1.Text += "`nCustom directory backed up successfully."
+				$speak.Speak("The custom backup directory completed backing up. Continuing backup.")
+				$richtextbox1.Text += "`n# # # # # # # # # #`n"
 				$ProgressBar1.Value = "93"
 			}
+			If ($checkboxOneDrive.Checked)
+			{
+				Robocopy $source\ODBA $dest\ODBA *.* /E /ZB /J /LOG+:$source\desktop\backuplog.txt
+				Robocopy $source\OneDrive - Embry-Riddle Aeronautical University $dest\OneDrive - Embry-Riddle Aeronautical University.* /E /ZB /J /LOG+:$source\desktop\backuplog.txt
+				$richtextbox1.Text += "`OneDrive, and OneDrive-Not-Yet-Syncd-Files directory backed up successfully."
+				$speak.Speak("The OneDrive, and OneDrive-Not-Yet-Syncd-Files directories completed backing up. Continuing backup.")
+				$richtextbox1.Text += "`n# # # # # # # # # #`n"
+				$ProgressBar1.Value = "96"
+				
+			}
 			Robocopy $source\AppData\Roaming\Adobe\Acrobat\DC\Security $dest\AppData\Roaming\Adobe\Acrobat\DC\Security *.* /E /ZB /J /LOG+:$source\desktop\backuplog.txt
-			$ProgressBar1.Value = "95"
+			$richtextbox1.Text += "`nAdobe signature file backed up successfully."
+			$speak.Speak("The Adobe signature file completed backing up. Continuing backup.")
 			Robocopy $source\application data\microsoft\signatures $dest\application data\microsoft\signatures *.* /E /ZB /J /LOG+:$source\desktop\backuplog.txt
+			$richtextbox1.Text += "`nOutlook signature backed up successfully."
+			$speak.Speak("The Outlook signaturecompleted backing up. Continuing backup.")
 			$ProgressBar1.Value = "98"
 			$result = [System.Windows.Forms.MessageBox]::Show('This Operation Completed Successfully!', 'Warning', 'OK', 'Warning')
 			$result
@@ -351,12 +400,8 @@ function Show-gddgfhdfghgfdh_psf {
 		Get-Inventory
 	}
 	
-	$labelInstDate_Click={
-		#TODO: Place custom script here
-		
-	}
 	
-	$checkboxPictures_CheckedChanged={
+	$checkboxNewComputer_CheckedChanged={
 		#TODO: Place custom script here
 		
 	}
@@ -377,12 +422,11 @@ function Show-gddgfhdfghgfdh_psf {
 		#Remove all event handlers from the controls
 		try
 		{
-			$labelInstDate.remove_Click($labelInstDate_Click)
+			$checkboxNewComputer.remove_CheckedChanged($checkboxNewComputer_CheckedChanged)
 			$buttonPrograms.remove_Click($buttonPrograms_Click)
 			$buttonInventory.remove_Click($buttonInventory_Click)
 			$buttonPrinters.remove_Click($buttonPrinters_Click)
 			$buttonBackup.remove_Click($buttonBackup_Click)
-			$checkboxPictures.remove_CheckedChanged($checkboxPictures_CheckedChanged)
 			$checkboxDesktop.remove_CheckedChanged($checkboxDesktop_CheckedChanged)
 			$formProfileBackup.remove_Load($formProfileBackup_Load)
 			$formProfileBackup.remove_Load($Form_StateCorrection_Load)
@@ -396,16 +440,16 @@ function Show-gddgfhdfghgfdh_psf {
 	#region Generated Form Code
 	#----------------------------------------------
 	$formProfileBackup.SuspendLayout()
-	$groupbox2.SuspendLayout()
-	$groupbox3.SuspendLayout()
 	$Info.SuspendLayout()
+	$groupbox3.SuspendLayout()
+	$groupbox2.SuspendLayout()
 	#
 	# formProfileBackup
 	#
+	$formProfileBackup.Controls.Add($checkboxNewComputer)
 	$formProfileBackup.Controls.Add($labelCheckDirectoryYouWan)
-	$formProfileBackup.Controls.Add($label1NoSpacesInLocations)
 	$formProfileBackup.Controls.Add($Info)
-	$formProfileBackup.Controls.Add($labelProfileBackup004)
+	$formProfileBackup.Controls.Add($labelProfileBackup005)
 	$formProfileBackup.Controls.Add($buttonPrograms)
 	$formProfileBackup.Controls.Add($buttonInventory)
 	$formProfileBackup.Controls.Add($buttonPrinters)
@@ -418,43 +462,47 @@ function Show-gddgfhdfghgfdh_psf {
 	$formProfileBackup.AutoScaleMode = 'Font'
 	$formProfileBackup.ClientSize = '408, 461'
 	#region Binary Data
-	#$formProfileBackup.Icon = [System.Convert]::FromBase64String('
-#AAABAAEAEBAAAAEACABoBQAAFgAAACgAAAAQAAAAIAAAAAEACAAAAAAAAAEAAAAAAAAAAAAAAAEA
-#AAAAAAD8/f4A/f3+AN/VwgCMUQYA//3+AItQCQCRUAkAfk0jAPn+/AD7/vwAjFIEAP/79ACIThgA
-#jVEHAPfw6gCRUgQA+/33AI5QCgD7/PoA7+XYAP78+gCKTggA//79AI5SBQCQUQgAllIFAJRRCADy
-#4tkA9/PjAPz+/gCLTgkA/v7+APTu4QCLUQkA/fr5AJJSBgCWUwMA+vz8AJJjOgCLTgoAklgXAJJP
-#BwD7/vcAlUsKAP38/QCNSAsAiE4LAI1PCAD++PgA/vz1AKqBYgCVUwUAl1ELAIpPCQCLTwkAj1AG
-#AI9PCQCTUwYA+P38AJhTBgD9/fwAilAHAOjYyACKTwoAi08KAH1NIQCvkXEA+/39APz9/QD9/f0A
-#/v39AP/9/QCOUQUAilAIAIxaJgD9/PgAkVAIAPn6/gD8/PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-#AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-#AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-#AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-#AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-#AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-#AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-#AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-#AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-#AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-#AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-#AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-#AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-#AAAANjY2NjY2NjY2NjY2NjY2NjY2NjY2NjZAGBs+AzY2NjY2NjY2NjYRIAJOKS82NjY2NjY2SEo7
-#QxNGNzY2NjY2NjY2OSJHAB8fTSM2NjY2NjY2HiZCEkQfHx8sBA02NjY2NjY2NkEfHx80JA82NjY2
-#NjY2Jz0lHx8dRTpANjY2NjY2Nj8tHx8IRR8fKi42NjY2NjYhEB8fFhofHx9LCjY2NjY2BkMfHwsV
-#TAEfRQ4HLzY2Nig8Hx8XHjYFMDwxKzY2NjYZDBQJNjY2NjY2NTY2NjYVNhwsMjU2NjY2NjY2NjY2
-#NjZJODM2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-#AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=')
+	$formProfileBackup.Icon = [System.Convert]::FromBase64String('
+AAABAAEAEBAAAAEACABoBQAAFgAAACgAAAAQAAAAIAAAAAEACAAAAAAAAAEAAAAAAAAAAAAAAAEA
+AAAAAAD8/f4A/f3+AN/VwgCMUQYA//3+AItQCQCRUAkAfk0jAPn+/AD7/vwAjFIEAP/79ACIThgA
+jVEHAPfw6gCRUgQA+/33AI5QCgD7/PoA7+XYAP78+gCKTggA//79AI5SBQCQUQgAllIFAJRRCADy
+4tkA9/PjAPz+/gCLTgkA/v7+APTu4QCLUQkA/fr5AJJSBgCWUwMA+vz8AJJjOgCLTgoAklgXAJJP
+BwD7/vcAlUsKAP38/QCNSAsAiE4LAI1PCAD++PgA/vz1AKqBYgCVUwUAl1ELAIpPCQCLTwkAj1AG
+AI9PCQCTUwYA+P38AJhTBgD9/fwAilAHAOjYyACKTwoAi08KAH1NIQCvkXEA+/39APz9/QD9/f0A
+/v39AP/9/QCOUQUAilAIAIxaJgD9/PgAkVAIAPn6/gD8/PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAANjY2NjY2NjY2NjY2NjY2NjY2NjY2NjZAGBs+AzY2NjY2NjY2NjYRIAJOKS82NjY2NjY2SEo7
+QxNGNzY2NjY2NjY2OSJHAB8fTSM2NjY2NjY2HiZCEkQfHx8sBA02NjY2NjY2NkEfHx80JA82NjY2
+NjY2Jz0lHx8dRTpANjY2NjY2Nj8tHx8IRR8fKi42NjY2NjYhEB8fFhofHx9LCjY2NjY2BkMfHwsV
+TAEfRQ4HLzY2Nig8Hx8XHjYFMDwxKzY2NjYZDBQJNjY2NjY2NTY2NjYVNhwsMjU2NjY2NjY2NjY2
+NjZJODM2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=')
 	#endregion
-	$System_Windows_Forms_MenuStrip_1 = New-Object 'System.Windows.Forms.MenuStrip'
-	$System_Windows_Forms_MenuStrip_1.Location = '0, 0'
-	$System_Windows_Forms_MenuStrip_1.Name = ''
-	$System_Windows_Forms_MenuStrip_1.Size = '632, 24'
-	$System_Windows_Forms_MenuStrip_1.TabIndex = 10
-	$System_Windows_Forms_MenuStrip_1.Visible = $False
-	$formProfileBackup.MainMenuStrip = $System_Windows_Forms_MenuStrip_1
 	$formProfileBackup.Name = 'formProfileBackup'
 	$formProfileBackup.Text = 'Profile Backup '
 	$formProfileBackup.add_Load($formProfileBackup_Load)
+	#
+	# checkboxNewComputer
+	#
+	$checkboxNewComputer.Location = '276, 42'
+	$checkboxNewComputer.Name = 'checkboxNewComputer'
+	$checkboxNewComputer.Size = '116, 24'
+	$checkboxNewComputer.TabIndex = 38
+	$checkboxNewComputer.Text = 'New Computer?'
+	$checkboxNewComputer.UseCompatibleTextRendering = $True
+	$checkboxNewComputer.UseVisualStyleBackColor = $True
+	$checkboxNewComputer.add_CheckedChanged($checkboxNewComputer_CheckedChanged)
 	#
 	# labelCheckDirectoryYouWan
 	#
@@ -464,16 +512,6 @@ function Show-gddgfhdfghgfdh_psf {
 	$labelCheckDirectoryYouWan.Size = '0, 16'
 	$labelCheckDirectoryYouWan.TabIndex = 46
 	$labelCheckDirectoryYouWan.UseCompatibleTextRendering = $True
-	#
-	# label1NoSpacesInLocations
-	#
-	$label1NoSpacesInLocations.AutoSize = $True
-	$label1NoSpacesInLocations.Location = '261, 37'
-	$label1NoSpacesInLocations.Name = 'label1NoSpacesInLocations'
-	$label1NoSpacesInLocations.Size = '135, 17'
-	$label1NoSpacesInLocations.TabIndex = 45
-	$label1NoSpacesInLocations.Text = 'alan.newingham@gmail.com'
-	$label1NoSpacesInLocations.UseCompatibleTextRendering = $True
 	#
 	# Info
 	#
@@ -542,7 +580,6 @@ function Show-gddgfhdfghgfdh_psf {
 	$labelInstDate.TabIndex = 37
 	$labelInstDate.Text = "$InstDate"
 	$labelInstDate.UseCompatibleTextRendering = $True
-	$labelInstDate.add_Click($labelInstDate_Click)
 	#
 	# labelWindowsUser
 	#
@@ -574,15 +611,15 @@ function Show-gddgfhdfghgfdh_psf {
 	$labelDeviceName.Text = 'Device Name:'
 	$labelDeviceName.UseCompatibleTextRendering = $True
 	#
-	# labelProfileBackup004
+	# labelProfileBackup005
 	#
-	$labelProfileBackup004.AutoSize = $True
-	$labelProfileBackup004.Location = '150, 9'
-	$labelProfileBackup004.Name = 'labelProfileBackup004'
-	$labelProfileBackup004.Size = '105, 17'
-	$labelProfileBackup004.TabIndex = 38
-	$labelProfileBackup004.Text = 'Profile Backup 0.0.4'
-	$labelProfileBackup004.UseCompatibleTextRendering = $True
+	$labelProfileBackup005.AutoSize = $True
+	$labelProfileBackup005.Location = '150, 9'
+	$labelProfileBackup005.Name = 'labelProfileBackup005'
+	$labelProfileBackup005.Size = '105, 17'
+	$labelProfileBackup005.TabIndex = 38
+	$labelProfileBackup005.Text = 'Profile Backup 0.0.5'
+	$labelProfileBackup005.UseCompatibleTextRendering = $True
 	#
 	# buttonPrograms
 	#
@@ -637,6 +674,7 @@ function Show-gddgfhdfghgfdh_psf {
 	#
 	# groupbox3
 	#
+	$groupbox3.Controls.Add($checkboxOneDrive)
 	$groupbox3.Controls.Add($checkboxCustomDirectory)
 	$groupbox3.Controls.Add($textbox7)
 	$groupbox3.Controls.Add($checkboxQuickparts)
@@ -648,11 +686,21 @@ function Show-gddgfhdfghgfdh_psf {
 	$groupbox3.Controls.Add($checkboxDesktop)
 	$groupbox3.Location = '9, 109'
 	$groupbox3.Name = 'groupbox3'
-	$groupbox3.Size = '245, 134'
+	$groupbox3.Size = '246, 134'
 	$groupbox3.TabIndex = 29
 	$groupbox3.TabStop = $False
 	$groupbox3.Text = 'Directories'
 	$groupbox3.UseCompatibleTextRendering = $True
+	#
+	# checkboxOneDrive
+	#
+	$checkboxOneDrive.Location = '134, 76'
+	$checkboxOneDrive.Name = 'checkboxOneDrive'
+	$checkboxOneDrive.Size = '104, 24'
+	$checkboxOneDrive.TabIndex = 37
+	$checkboxOneDrive.Text = 'OneDrive'
+	$checkboxOneDrive.UseCompatibleTextRendering = $True
+	$checkboxOneDrive.UseVisualStyleBackColor = $True
 	#
 	# checkboxCustomDirectory
 	#
@@ -666,7 +714,7 @@ function Show-gddgfhdfghgfdh_psf {
 	#
 	# textbox7
 	#
-	$textbox7.Location = '134, 96'
+	$textbox7.Location = '134, 100'
 	$textbox7.Name = 'textbox7'
 	$textbox7.Size = '100, 20'
 	$textbox7.TabIndex = 35
@@ -683,7 +731,7 @@ function Show-gddgfhdfghgfdh_psf {
 	#
 	# checkboxBrowsers
 	#
-	$checkboxBrowsers.Location = '134, 59'
+	$checkboxBrowsers.Location = '134, 57'
 	$checkboxBrowsers.Name = 'checkboxBrowsers'
 	$checkboxBrowsers.Size = '104, 24'
 	$checkboxBrowsers.TabIndex = 33
@@ -703,18 +751,17 @@ function Show-gddgfhdfghgfdh_psf {
 	#
 	# checkboxPictures
 	#
-	$checkboxPictures.Location = '134, 40'
+	$checkboxPictures.Location = '134, 38'
 	$checkboxPictures.Name = 'checkboxPictures'
 	$checkboxPictures.Size = '104, 24'
 	$checkboxPictures.TabIndex = 31
 	$checkboxPictures.Text = 'Pictures'
 	$checkboxPictures.UseCompatibleTextRendering = $True
 	$checkboxPictures.UseVisualStyleBackColor = $True
-	$checkboxPictures.add_CheckedChanged($checkboxPictures_CheckedChanged)
 	#
 	# checkboxDocuments
 	#
-	$checkboxDocuments.Location = '134, 22'
+	$checkboxDocuments.Location = '134, 20'
 	$checkboxDocuments.Name = 'checkboxDocuments'
 	$checkboxDocuments.Size = '104, 24'
 	$checkboxDocuments.TabIndex = 30
@@ -801,9 +848,9 @@ function Show-gddgfhdfghgfdh_psf {
 	#
 	# tooltip1
 	#
-	$Info.ResumeLayout()
-	$groupbox3.ResumeLayout()
 	$groupbox2.ResumeLayout()
+	$groupbox3.ResumeLayout()
+	$Info.ResumeLayout()
 	$formProfileBackup.ResumeLayout()
 	#endregion Generated Form Code
 
