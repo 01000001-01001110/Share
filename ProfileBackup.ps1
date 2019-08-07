@@ -75,7 +75,7 @@ e/kT/P+Lz1//BRf13A0HDQAA#>
 #----------------------------------------------
 # Generated Form Function
 #----------------------------------------------
-function Show-gddgfhdfghgfdh_psf {
+function Show-ProfileBackup {
 
 	#----------------------------------------------
 	#region Import the Assemblies
@@ -159,66 +159,10 @@ function Show-gddgfhdfghgfdh_psf {
 	$CurrentUserName = [System.Security.Principal.WindowsIdentity]::GetCurrent().Name
 	[string]$ComputerName = $env:computername
 	$Computer = $ComputerName
-	#Manufacturer information
-	$Manufacturer = Get-WmiObject win32_computersystem | Select Manufacturer
-	$Model = Get-WmiObject win32_computersystem | Select Model
-	#Gets the OS info
-	$GetOS = Get-WmiObject -class Win32_OperatingSystem -computername $Computer
-	$OS = $GetOS.Caption
-	$OSArchitecture = $GetOS.OSArchitecture
-	$OSBuildNumber = $GetOS.BuildNumber
-	#Monitor information
-	$MonitorCount = Get-ciminstance -namespace root/wmi -classname WmiMonitorConnectionParams | Select VideoOutputTechnology
-	#Gets memory information
-	$Getmemoryslot = Get-WmiObject Win32_PhysicalMemoryArray -ComputerName $computer
-	$Getmemory = Get-WMIObject Win32_PhysicalMemory -ComputerName $computer
-	$Getmemorymeasure = Get-WMIObject Win32_PhysicalMemory -ComputerName $computer | Measure-Object -Property Capacity -Sum
-	$MemorySlot = $Getmemoryslot.MemoryDevices
-	$MaxMemory = $($Getmemoryslot.MaxCapacity/1024/1024)
-	$TotalMemSticks = $Getmemorymeasure.count
-	$TotalMemSize = $($Getmemorymeasure.sum/1024/1024/1024)
-	#Get the disk info
-	$GetDiskInfo = Get-WmiObject Win32_logicaldisk -ComputerName $computer -Filter "DeviceID='C:'"
-	$DiskSize = $([math]::Round($GetDiskInfo.Size/1GB))
-	$FreeSpace = $([math]::Round($GetDiskInfo.FreeSpace/1GB))
-	$UsedSapce = $([math]::Round($DiskSize - $FreeSpace))
-	#Gets CPU info
-	$GetCPU = Get-wmiobject win32_processor -ComputerName $Computer
-	$CPUName = $GetCPU.Name
-	$CPUManufacturer = $GetCPU.Manufacturer
-	$CPUMaxClockSpeed = $GetCPU.MaxClockSpeed
-	#account status
 	$LoggedOnUser = (Get-WmiObject win32_computersystem -ComputerName $Computer).Username
-	$getLockedStart = If (Get-Process logonui -ComputerName $Computer -ErrorAction SilentlyContinue) { $Locked = "Yes" }
-	Else { $Locked = "No" }
-	#Serial Number
-	$SerialNumber = (Get-WmiObject win32_bios -ComputerName $Computer).SerialNumber
-	#get IP address
-	$IPAddress = (Get-WmiObject win32_NetworkadapterConfiguration -ComputerName $Computer | Where-Object IPAddress -ne $null).IPAddress
-	#Gets BIOS info
-	$BIOSName = (Get-WmiObject win32_bios -ComputerName $Computer).Name
-	$BIOSManufacturer = (Get-WmiObject win32_bios -ComputerName $Computer).Manufacturer
-	$BIOSVersionN = (Get-WmiObject win32_bios -ComputerName $Computer).Version
-	#Gets Motherboard info
-	$MotherBoardName = (Get-WmiObject Win32_BaseBoard -ComputerName $Computer).Name
-	$MotherBoardManufacturet = (Get-WmiObject Win32_BaseBoard -ComputerName $Computer).Manufacturer
-	$MotherBoardProduct = (Get-WmiObject Win32_BaseBoard -ComputerName $Computer).Product
-	$MotherBoardSerial = (Get-WmiObject Win32_BaseBoard -ComputerName $Computer).SerialNumber
+
 	$InstDate = (Get-CimInstance Win32_OperatingSystem).InstallDate
-	$DesktopPath = [Environment]::GetFolderPath("Desktop")
-	$MonitorC0unt = $MonitorCount -replace '@{VideoOutputTechnology=', ''
-	$MonitorCount = $MonitorC0unt -replace '}', ''
-	$M4nufacturer = $Manufacturer -replace '@{Manufacturer=', ''
-	$Manufacturer = $M4nufacturer -replace '}', ''
-	$M0del = $Model -replace '@{Model='
-	$Model = $M0del -replace '}'
-	$directories = Get-ChildItem -Path "C:\Users\" | Select -Property Name
-	$D1rectories = $directories -replace '{@{Name=', ''
-	$directories = $D1rectories -replace '}', ''
-	$M0therBoardSerial = $MotherBoardSerial -replace '/$SerialNumber/', ''
-	$MotherBoardSerial = $M0therBoardSerial -replace '/'
-	$TmpFile = [System.IO.Path]::GetTempFileName
-	$nl = [Environment]::NewLine
+
 	#End Region - Automatic System Information Gathering
 	
 	# Setting up Speech
@@ -841,4 +785,4 @@ function Show-gddgfhdfghgfdh_psf {
 } #End Function
 
 #Call the form
-Show-gddgfhdfghgfdh_psf | Out-Null
+Show-ProfileBackup | Out-Null
