@@ -275,7 +275,7 @@ function Show-gddgfhdfghgfdh_psf {
 				Robocopy $source\Desktop $dest\Desktop *.* /E /ZB /J /LOG+:$source\desktop\backuplog.txt
 				#$richtextbox1.Text = Robocopy $source\Desktop $dest\Desktop *.* /E /ZB /J /LOG+:$source\desktop\backuplog.txt | Out-String
 				$richtextbox1.Text += "`nDesktop directory backed up successfully."
-				$speak.Speak("The Desktop directory completed backing up. Continuing backup.")
+				$speak.Speak("The Desktop directory completed backing up. 30 percent complete")
 				$richtextbox1.Text += "`n# # # # # # # # # #`n"
 				$ProgressBar1.Value = "30"
 			}
@@ -283,7 +283,7 @@ function Show-gddgfhdfghgfdh_psf {
 			{
 				Robocopy $source\Documents $dest\Documents *.* /E /ZB /J /LOG+:$source\desktop\backuplog.txt
 				$richtextbox1.Text += "`nDocuments directory backed up successfully."
-				$speak.Speak("The Documents directory completed backing up. Continuing backup.")
+				$speak.Speak("The Documents directory completed backing up. 45 percent complete")
 				$richtextbox1.Text += "`n# # # # # # # # # #`n"
 				$ProgressBar1.Value = "45"
 			}
@@ -291,7 +291,7 @@ function Show-gddgfhdfghgfdh_psf {
 			{
 				Robocopy $source\Downloads $dest\Downloads *.* /E /ZB /J /LOG+:$source\desktop\backuplog.txt
 				$richtextbox1.Text += "`nDownloads directory backed up successfully."
-				$speak.Speak("The Downloads directory completed backing up. Continuing backup.")
+				$speak.Speak("The Downloads directory completed backing up. 57 percent complete")
 				$richtextbox1.Text += "`n# # # # # # # # # #`n"
 				$ProgressBar1.Value = "57"
 			}
@@ -304,7 +304,7 @@ function Show-gddgfhdfghgfdh_psf {
 				$ProgressBar1.Value = "63"
 				Robocopy $source\AppData\Roaming\Mozilla\Firefox\Profiles $dest\AppData\Roaming\Mozilla\Firefox\Profiles *.* /E /ZB /J /LOG+:$source\desktop\backuplog.txt
 				$richtextbox1.Text += "`nIE, FireFox, and Chrome Bookmark directories backed up successfully."
-				$speak.Speak("The Eye E, Fire Fox and Chrome Bookmarks directories completed backing up. Continuing backup.")
+				$speak.Speak("The Eye E, Fire Fox and Chrome Bookmarks directories completed backing up. 65 percent complete")
 				$richtextbox1.Text += "`n# # # # # # # # # #`n"
 				$ProgressBar1.Value = "65"
 			}
@@ -312,7 +312,7 @@ function Show-gddgfhdfghgfdh_psf {
 			{
 				Robocopy $source\Pictures $dest\Pictures *.* /E /ZB /J /LOG+:$source\desktop\backuplog.txt
 				$richtextbox1.Text += "`nPictures directory backed up successfully."
-				$speak.Speak("The Pictures directory completed backing up. Continuing backup.")
+				$speak.Speak("The Pictures directory completed backing up. 75 percent complete")
 				$richtextbox1.Text += "`n# # # # # # # # # #`n"
 				$ProgressBar1.Value = "75"
 			}
@@ -320,7 +320,7 @@ function Show-gddgfhdfghgfdh_psf {
 			{
 				Robocopy $source\Videos $dest\Videos *.* /E /ZB /J /LOG+:$source\desktop\backuplog.txt
 				$richtextbox1.Text += "`nVideos directory backed up successfully."
-				$speak.Speak("The Videos directory completed backing up. Continuing backup.")
+				$speak.Speak("The Videos directory completed backing up. 80 percent complete")
 				$richtextbox1.Text += "`n# # # # # # # # # #`n"
 				$ProgressBar1.Value = "80"
 			}
@@ -328,7 +328,7 @@ function Show-gddgfhdfghgfdh_psf {
 			{
 				Robocopy "$source\application data\microsoft\templates" "$dest\application data\microsoft\templates" *.* /E /ZB /J /LOG+:$source\desktop\backuplog.txt
 				$richtextbox1.Text += "`nQuickParts directory backed up successfully."
-				$speak.Speak("The Microsoft QuickParts completed backing up. Continuing backup.")
+				$speak.Speak("The Microsoft QuickParts completed backing up. 90 percent complete")
 				$richtextbox1.Text += "`n# # # # # # # # # #`n"
 				$ProgressBar1.Value = "90"
 			}
@@ -337,7 +337,7 @@ function Show-gddgfhdfghgfdh_psf {
 				$source = $textbox7.Text
 				Robocopy $source $dest\Custom_Directory_Backup *.* /E /ZB /J /LOG+:$source\desktop\backuplog.txt
 				$richtextbox1.Text += "`nCustom directory backed up successfully."
-				$speak.Speak("The custom backup directory completed backing up. Continuing backup.")
+				$speak.Speak("The custom backup directory completed backing up. 93 percent complete")
 				$richtextbox1.Text += "`n# # # # # # # # # #`n"
 				$ProgressBar1.Value = "93"
 			}
@@ -346,25 +346,26 @@ function Show-gddgfhdfghgfdh_psf {
 				Robocopy $source\ODBA $dest\ODBA *.* /E /ZB /J /LOG+:$source\desktop\backuplog.txt
 				Robocopy $source\OneDrive - Embry-Riddle Aeronautical University $dest\OneDrive - Embry-Riddle Aeronautical University.* /E /ZB /J /LOG+:$source\desktop\backuplog.txt
 				$richtextbox1.Text += "`OneDrive, and OneDrive-Not-Yet-Syncd-Files directory backed up successfully."
-				$speak.Speak("The OneDrive, and OneDrive-Not-Yet-Syncd-Files directories completed backing up. Continuing backup.")
+				$speak.Speak("The OneDrive, and OneDrive-Not-Yet-Syncd-Files directories completed backing up. 96 percent complete")
 				$richtextbox1.Text += "`n# # # # # # # # # #`n"
 				$ProgressBar1.Value = "96"
 				
 			}
 			Robocopy $source\AppData\Roaming\Adobe\Acrobat\DC\Security $dest\AppData\Roaming\Adobe\Acrobat\DC\Security *.* /E /ZB /J /LOG+:$source\desktop\backuplog.txt
 			$richtextbox1.Text += "`nAdobe signature file backed up successfully."
-			$speak.Speak("The Adobe signature file completed backing up. Continuing backup.")
+			$speak.Speak("The Adobe signature file completed backing up.")
 			Robocopy $source\application data\microsoft\signatures $dest\application data\microsoft\signatures *.* /E /ZB /J /LOG+:$source\desktop\backuplog.txt
 			$richtextbox1.Text += "`nOutlook signature backed up successfully."
-			$speak.Speak("The Outlook signaturecompleted backing up. Continuing backup.")
+			$speak.Speak("The Outlook signaturecompleted backing up. 98 percent complete")
 			$ProgressBar1.Value = "98"
+			$ProgressBar1.Value = "100"
+			$speak.Speak("All selected directories completed backing up. Please continue with your day in whatever manner that might mean.")
 			$result = [System.Windows.Forms.MessageBox]::Show('This Operation Completed Successfully!', 'Warning', 'OK', 'Warning')
 			$result
-			$ProgressBar1.Value = "100"
-			
-		}
+			}
 		Else
 		{
+			$speak.Speak("No joy. I was unable to locate the directory you specified. Please check your path and try again.")
 			$result = [System.Windows.Forms.MessageBox]::Show('Unable to reach souce location!', 'Warning', 'YesNo', 'Warning')
 			$result
 		}
@@ -401,10 +402,7 @@ function Show-gddgfhdfghgfdh_psf {
 	}
 	
 	
-	$checkboxNewComputer_CheckedChanged={
-		#TODO: Place custom script here
-		
-	}
+
 	
 	# --End User Generated Script--
 	#----------------------------------------------
@@ -462,32 +460,7 @@ function Show-gddgfhdfghgfdh_psf {
 	$formProfileBackup.AutoScaleMode = 'Font'
 	$formProfileBackup.ClientSize = '408, 461'
 	#region Binary Data
-	$formProfileBackup.Icon = [System.Convert]::FromBase64String('
-AAABAAEAEBAAAAEACABoBQAAFgAAACgAAAAQAAAAIAAAAAEACAAAAAAAAAEAAAAAAAAAAAAAAAEA
-AAAAAAD8/f4A/f3+AN/VwgCMUQYA//3+AItQCQCRUAkAfk0jAPn+/AD7/vwAjFIEAP/79ACIThgA
-jVEHAPfw6gCRUgQA+/33AI5QCgD7/PoA7+XYAP78+gCKTggA//79AI5SBQCQUQgAllIFAJRRCADy
-4tkA9/PjAPz+/gCLTgkA/v7+APTu4QCLUQkA/fr5AJJSBgCWUwMA+vz8AJJjOgCLTgoAklgXAJJP
-BwD7/vcAlUsKAP38/QCNSAsAiE4LAI1PCAD++PgA/vz1AKqBYgCVUwUAl1ELAIpPCQCLTwkAj1AG
-AI9PCQCTUwYA+P38AJhTBgD9/fwAilAHAOjYyACKTwoAi08KAH1NIQCvkXEA+/39APz9/QD9/f0A
-/v39AP/9/QCOUQUAilAIAIxaJgD9/PgAkVAIAPn6/gD8/PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAANjY2NjY2NjY2NjY2NjY2NjY2NjY2NjZAGBs+AzY2NjY2NjY2NjYRIAJOKS82NjY2NjY2SEo7
-QxNGNzY2NjY2NjY2OSJHAB8fTSM2NjY2NjY2HiZCEkQfHx8sBA02NjY2NjY2NkEfHx80JA82NjY2
-NjY2Jz0lHx8dRTpANjY2NjY2Nj8tHx8IRR8fKi42NjY2NjYhEB8fFhofHx9LCjY2NjY2BkMfHwsV
-TAEfRQ4HLzY2Nig8Hx8XHjYFMDwxKzY2NjYZDBQJNjY2NjY2NTY2NjYVNhwsMjU2NjY2NjY2NjY2
-NjZJODM2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=')
+	
 	#endregion
 	$formProfileBackup.Name = 'formProfileBackup'
 	$formProfileBackup.Text = 'Profile Backup '
