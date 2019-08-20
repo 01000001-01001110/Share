@@ -2,52 +2,54 @@
 #------------------------------------------------------------------------
 # Source File Information (DO NOT MODIFY)
 # Source ID: bf90a41d-22bb-4fce-9b3c-8f5e4d793ae6
-# Source File: xzcz.psf
+# Source File: iNet-SCCMToolKit.psf
 #------------------------------------------------------------------------
 #region File Recovery Data (DO NOT MODIFY)
 <#RecoveryData:
-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
-gd+TH/B/Q9fvfwAceGBvgwkAAA==#>
+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#>
 #endregion
 
 <#
     .NOTES
     --------------------------------------------------------------------------------
-     Code generated by:  SAPIEN Technologies, Inc., PowerShell Studio 2019 v5.6.165
-     Generated on:       7/30/2019 3:49 PM
-     Generated by:       Support.newingha
+     Form generated by:  PowerShell Studio 2019
+     Generated on:       8/20/2019 6:27 AM
+	 Logic by:	         Alan Newingham
+	 Email: 			 alan.newingham@gmail.com
+	 GitHub: 			 https://github.com/01000001-01001110
     --------------------------------------------------------------------------------
     .DESCRIPTION
         GUI script generated by PowerShell Studio 2019
@@ -63,14 +65,14 @@ gd+TH/B/Q9fvfwAceGBvgwkAAA==#>
 #----------------------------------------------
 # Generated Form Function
 #----------------------------------------------
-function Show-xzcz_psf {
+function Show-SCCMToolKit {
 
 	#----------------------------------------------
 	#region Import the Assemblies
 	#----------------------------------------------
-	[void][reflection.assembly]::Load('System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a')
 	[void][reflection.assembly]::Load('System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089')
 	[void][reflection.assembly]::Load('System.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a')
+	[void][reflection.assembly]::Load('System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a')
 	#endregion Import Assemblies
 
 	#----------------------------------------------
@@ -95,6 +97,7 @@ function Show-xzcz_psf {
 	$buttonSalvageRepo = New-Object 'System.Windows.Forms.Button'
 	$buttonVerifyRepo = New-Object 'System.Windows.Forms.Button'
 	$groupbox1 = New-Object 'System.Windows.Forms.GroupBox'
+	$buttonCMTrace = New-Object 'System.Windows.Forms.Button'
 	$buttonDeleteSCCM = New-Object 'System.Windows.Forms.Button'
 	$buttonDelSCCMCache = New-Object 'System.Windows.Forms.Button'
 	$buttonInstallSCCM = New-Object 'System.Windows.Forms.Button'
@@ -102,8 +105,8 @@ function Show-xzcz_psf {
 	$buttonClientHealthEval = New-Object 'System.Windows.Forms.Button'
 	$buttonRunMachinePolicy = New-Object 'System.Windows.Forms.Button'
 	$buttonRestartConfigMan = New-Object 'System.Windows.Forms.Button'
-	$labelSCCMToolKit011 = New-Object 'System.Windows.Forms.Label'
-	$labelNewinghaerauedu = New-Object 'System.Windows.Forms.Label'
+	$labelSCCMToolKit012 = New-Object 'System.Windows.Forms.Label'
+	$labelemailaddress = New-Object 'System.Windows.Forms.Label'
 	$labelContact = New-Object 'System.Windows.Forms.Label'
 	$richtextbox1 = New-Object 'System.Windows.Forms.RichTextBox'
 	$menustrip1 = New-Object 'System.Windows.Forms.MenuStrip'
@@ -594,11 +597,14 @@ function Show-xzcz_psf {
 	}
 	function InstallSCCM
 	{
-		New-Item -Path "%windir%\" -Name "CCM" -ItemType "directory"
-		cmd /c 'copy "\\SERVERNAME\SCCM\Client\ccmsetup\ccmsetup.exe" "%windir%\CCM\ccmsetup.exe" /Z /Y'
-		cmd /c "%windir%\CCM\ccmsetup.exe /forceinstall"
 		taskmgr
+		cmd /c 'MD C:\Windows\CCM'
 		Invoke-Item c:\windows\ccmsetup\
+		cmd /c 'copy "\\dbfsvs02.erau.edu\itdb\Software\SCCM\Client\ccmsetup\ccmsetup.exe" "C:\Windows\CCM\ccmsetup.exe" /Z /Y'
+		$ps.StartInfo.Filename = "C:\windows\CCM\ccmsetup.exe"
+		$ps.StartInfo.Arguments = " /forceinstall"
+		$ps.start()
+		$ps.WaitForExit()
 		$richtextbox1.Text += "`nStarted CCM Setup."
 	}
 	
@@ -656,6 +662,11 @@ function Show-xzcz_psf {
 		Show-AboutForm_psf
 	}
 	
+	$buttonCMTrace_Click={
+		#TODO: Place custom script here
+		cmTrace
+	}
+	
 	# --End User Generated Script--
 	#----------------------------------------------
 	#region Generated Events
@@ -677,6 +688,7 @@ function Show-xzcz_psf {
 			$buttonResetRepo.remove_Click($buttonResetRepo_Click)
 			$buttonSalvageRepo.remove_Click($buttonSalvageRepo_Click)
 			$buttonVerifyRepo.remove_Click($buttonVerifyRepo_Click)
+			$buttonCMTrace.remove_Click($buttonCMTrace_Click)
 			$buttonDeleteSCCM.remove_Click($buttonDeleteSCCM_Click)
 			$buttonDelSCCMCache.remove_Click($buttonDelSCCMCache_Click)
 			$buttonInstallSCCM.remove_Click($buttonInstallSCCM_Click)
@@ -697,9 +709,9 @@ function Show-xzcz_psf {
 	#region Generated Form Code
 	#----------------------------------------------
 	$formSCCMToolKit.SuspendLayout()
-	$groupbox1.SuspendLayout()
-	$groupbox2.SuspendLayout()
 	$groupbox3.SuspendLayout()
+	$groupbox2.SuspendLayout()
+	$groupbox1.SuspendLayout()
 	$menustrip1.SuspendLayout()
 	#
 	# formSCCMToolKit
@@ -707,8 +719,8 @@ function Show-xzcz_psf {
 	$formSCCMToolKit.Controls.Add($groupbox3)
 	$formSCCMToolKit.Controls.Add($groupbox2)
 	$formSCCMToolKit.Controls.Add($groupbox1)
-	$formSCCMToolKit.Controls.Add($labelSCCMToolKit011)
-	$formSCCMToolKit.Controls.Add($labelNewinghaerauedu)
+	$formSCCMToolKit.Controls.Add($labelSCCMToolKit012)
+	$formSCCMToolKit.Controls.Add($labelemailaddress)
 	$formSCCMToolKit.Controls.Add($labelContact)
 	$formSCCMToolKit.Controls.Add($richtextbox1)
 	$formSCCMToolKit.Controls.Add($menustrip1)
@@ -732,7 +744,7 @@ function Show-xzcz_psf {
 	$groupbox3.Controls.Add($labelSpaceAvailable)
 	$groupbox3.Controls.Add($labelComputerName)
 	$groupbox3.Controls.Add($labelHardDiskSize)
-	$groupbox3.Location = '155, 180'
+	$groupbox3.Location = '155, 207'
 	$groupbox3.Name = 'groupbox3'
 	$groupbox3.Size = '217, 92'
 	$groupbox3.TabIndex = 10
@@ -902,6 +914,7 @@ function Show-xzcz_psf {
 	#
 	# groupbox1
 	#
+	$groupbox1.Controls.Add($buttonCMTrace)
 	$groupbox1.Controls.Add($buttonDeleteSCCM)
 	$groupbox1.Controls.Add($buttonDelSCCMCache)
 	$groupbox1.Controls.Add($buttonInstallSCCM)
@@ -911,11 +924,22 @@ function Show-xzcz_psf {
 	$groupbox1.Controls.Add($buttonRestartConfigMan)
 	$groupbox1.Location = '13, 41'
 	$groupbox1.Name = 'groupbox1'
-	$groupbox1.Size = '127, 230'
+	$groupbox1.Size = '127, 258'
 	$groupbox1.TabIndex = 4
 	$groupbox1.TabStop = $False
 	$groupbox1.Text = 'SCCM'
 	$groupbox1.UseCompatibleTextRendering = $True
+	#
+	# buttonCMTrace
+	#
+	$buttonCMTrace.Location = '7, 228'
+	$buttonCMTrace.Name = 'buttonCMTrace'
+	$buttonCMTrace.Size = '112, 23'
+	$buttonCMTrace.TabIndex = 8
+	$buttonCMTrace.Text = 'CMTrace'
+	$buttonCMTrace.UseCompatibleTextRendering = $True
+	$buttonCMTrace.UseVisualStyleBackColor = $True
+	$buttonCMTrace.add_Click($buttonCMTrace_Click)
 	#
 	# buttonDeleteSCCM
 	#
@@ -996,25 +1020,25 @@ function Show-xzcz_psf {
 	$buttonRestartConfigMan.UseVisualStyleBackColor = $True
 	$buttonRestartConfigMan.add_Click($buttonRestartConfigMan_Click)
 	#
-	# labelSCCMToolKit011
+	# labelSCCMToolKit012
 	#
-	$labelSCCMToolKit011.AutoSize = $True
-	$labelSCCMToolKit011.Location = '139, 24'
-	$labelSCCMToolKit011.Name = 'labelSCCMToolKit011'
-	$labelSCCMToolKit011.Size = '104, 17'
-	$labelSCCMToolKit011.TabIndex = 3
-	$labelSCCMToolKit011.Text = 'SCCM ToolKit 0.1.1'
-	$labelSCCMToolKit011.UseCompatibleTextRendering = $True
+	$labelSCCMToolKit012.AutoSize = $True
+	$labelSCCMToolKit012.Location = '139, 24'
+	$labelSCCMToolKit012.Name = 'labelSCCMToolKit012'
+	$labelSCCMToolKit012.Size = '104, 17'
+	$labelSCCMToolKit012.TabIndex = 3
+	$labelSCCMToolKit012.Text = 'SCCM ToolKit 0.1.2'
+	$labelSCCMToolKit012.UseCompatibleTextRendering = $True
 	#
-	# labelNewinghaerauedu
+	# labelemailaddress
 	#
-	$labelNewinghaerauedu.AutoSize = $True
-	$labelNewinghaerauedu.Location = '176, 444'
-	$labelNewinghaerauedu.Name = 'labelNewinghaerauedu'
-	$labelNewinghaerauedu.Size = '109, 17'
-	$labelNewinghaerauedu.TabIndex = 2
-	$labelNewinghaerauedu.Text = 'newingha@erau.edu'
-	$labelNewinghaerauedu.UseCompatibleTextRendering = $True
+	$labelemailaddress.AutoSize = $True
+	$labelemailaddress.Location = '176, 444'
+	$labelemailaddress.Name = 'labelemailaddress'
+	$labelemailaddress.Size = '109, 17'
+	$labelemailaddress.TabIndex = 2
+	$labelemailaddress.Text = 'alan.newingham@gmail.com'
+	$labelemailaddress.UseCompatibleTextRendering = $True
 	#
 	# labelContact
 	#
@@ -1028,9 +1052,9 @@ function Show-xzcz_psf {
 	#
 	# richtextbox1
 	#
-	$richtextbox1.Location = '13, 278'
+	$richtextbox1.Location = '13, 305'
 	$richtextbox1.Name = 'richtextbox1'
-	$richtextbox1.Size = '359, 159'
+	$richtextbox1.Size = '359, 132'
 	$richtextbox1.TabIndex = 0
 	$richtextbox1.Text = ''
 	#
@@ -1050,9 +1074,9 @@ function Show-xzcz_psf {
 	$aboutToolStripMenuItem.Text = 'About'
 	$aboutToolStripMenuItem.add_Click($aboutToolStripMenuItem_Click)
 	$menustrip1.ResumeLayout()
-	$groupbox3.ResumeLayout()
-	$groupbox2.ResumeLayout()
 	$groupbox1.ResumeLayout()
+	$groupbox2.ResumeLayout()
+	$groupbox3.ResumeLayout()
 	$formSCCMToolKit.ResumeLayout()
 	#endregion Generated Form Code
 
@@ -1070,4 +1094,4 @@ function Show-xzcz_psf {
 } #End Function
 
 #Call the form
-Show-xzcz_psf | Out-Null
+Show-SCCMToolKit | Out-Null
