@@ -2,44 +2,41 @@
 #------------------------------------------------------------------------
 # Source File Information (DO NOT MODIFY)
 # Source ID: bf90a41d-22bb-4fce-9b3c-8f5e4d793ae6
-# Source File: iNet-SCCMToolKit.psf
+# Source File: xzcz.psf
 #------------------------------------------------------------------------
 #region File Recovery Data (DO NOT MODIFY)
 <#RecoveryData:
-pwkAAB+LCAAAAAAABABlVscO41gOvBvwPzTmKmCUE9DdgKwsW5KVw00552h9/Xp7LgPMOxEk3qFI
-VrF+mlky7Nn84aI1+vENlmrof/2F/g3/9ft++/Hjpz5XRdVHrVC1mRZ12e/zSq6/xyX/Cf6n9OeD
-MMzd71DGGxhikQ90MAyrcyzzz3swXNsL8I7VhVNutI/sdDHELd/yHDa1E/Ty4H7qGkJI2fCD80o8
-rmslSFWqzsD9Bsyezch8gz00WRyGyQ38SI/AtQTedQDol0RoYJUQCbnSoOzb3Q49Fq3y+zGR1MAz
-LcBzgwCcpSk9jfstA17ga9KxHPdNG5HJx+zrsDO6oGKa1+WFEa5dFVmrZxeE77ioIZoFG7oz9vI1
-55o5YUGcReyUbs003W+kgymeX7MvGzzxAybeHixPeZ8GrNfsZ90hegBbNTyp4RbZS2NfrAMikvmM
-ueA1tQRWMzgUK/IcQPJyv8lB4sdhZDo1RXZmnrqtVwfwa0L7x8sDdsiWtSAWOer87A6CDOHkwG30
-cTQRD8WXlDOxqBLxUexwlb7vt5JLLQXicbTgfN7zHL6ewjeyxwcA4iSsoLORoXA5WSkcT1U5DEsy
-wyJCT86b0LFe4j8deJJrp7gInt1vkb2aPoJOdgWOGRA6b2Pl5G+IUqa9ivs2yVgowNz0HGBRTL1p
-dmpfkVH2mBSeC4GyW+VpgHBt2I/vFGqEWFW/75dp/JxGpibruC16Y3TGAPApYQzCPlch/nSlEbJk
-Wh/nD2hWgWkDhT2vPDLrqZUiFbn4EXq/8ehTMilblRja9nT+oEkOMObLRORSKXbwMGuxnMw9nPpX
-D3mjDOevstoqd9qWVyxFmIlddcZq/dQewv3G4ceeIK6VpsqRAE/OQVkjGbxhM1a2y1S7NyubMnm7
-iZLp2paEuShUq0TumcYKTO0U6DJX3MQhKwjy/fYa2DqtVM1ExSuK5NgrSq5ZBkCCRr/c1QnYl9oS
-nrGjPL2o4Is1NSBZ9QQvaIrLd9IXlOguBmoZmny+G9LHgKL57ThQhuWJ9JcrkefQm09xT2dhobXj
-ahb2aS0K67zfQU9AICHE+WBG4bwr3jX1nsEdEdIRAr9TYOZgjmDlsbMDLCiChyp2xjCNiybPds/x
-t3KKympluIl8jguJ51O1IsG1ZdYM0YWyMxYTAJtsPVFDvkgpgspUVcwRv9v3J/cAkDmreGzMBVky
-St1fLKCRosWQ+26TrwAd67Z+aFRVbPMj4ZwpyhjLwZOGX759S1m+JDkrMmxKb2e8zK4zPwBb4/vD
-FYXglTgfWGA/MGMdiu8UskEphd/jI+g5Dw12p8hO3aibOOaU/fuN6dDMwaX/C5T0FagTPBP0Ulvj
-fLomTVo91WwkGLNry2++6o2tvfiyCmqDGMbcIvaIlTMS/BaSYEfg+82E4Im6Ypv1AoeQdv4Q8pYp
-gHyu7LJ5e9ExwoZtK8qWMVqzmsmH2x6Es/lmUAD4My83rUgWpVWMQnfuN5oVZRsymjS3AaoU8WHF
-em6TUj1yjaNNgzhpNd8THAELLuW0rFfuOrLXhkggK9bIrnQ2PbD6qyTl+lVLpV64KZkFs+MLgwgu
-83xa2DFCks06Q4jRDnvhGPbpkQR3njsT5l6DJ5+i1A8RmBmtS9Zud5oiO3hFvN8sHyJmBZ8kS7Nl
-0tIn2y0IvMLUayf1cvcIpJeWkBsjR40JgIU+wWxPq18kSFtoqO4/ko4xOMO9WujLLKygIWA+KqUT
-+Fw/gKBE0yLXSUE58GPktGdLec0aurvkX0unvgXAfSCVbgEYi7MGVR64fJ1wvwl6wt5vXzBtq7c4
-AnwUf7e3wlZoAskOaK971y7dD49vpxR3Mf/UCyMjqk2ZHcxQ/+kCIdDcTpBf2GNmPe63YXQdR2Qx
-R22vC9ae02dI6l0F3i7jgRn4yq13ELKgH58VJX9HHz42HX/NtNH5Wu5LsotlDW56OpS7+v32bh8e
-QBAt5XP8ohYcHvsM/l1UT0QZz0VQn6hVxcwkpndk+Ukf8xNHqUn8WH3lBLWu4+H7nEVhXmHTvd/Y
-NvbJRzoRn8Qo0RO2hDCj3DIlAEt1NhzvxzLN+46aCvbNixDdvoLRTcHyo3bN2aNiQNrP8MtGK6W1
-+61YvEskXqHx8CZ3tJ41xxyI7HaEQlJYMubqSzwtKtzykoVPtRUFpza7dmDMpu3nTjzD6xTdiZuk
-jzh/FWnK5wTmG0eViHNaRXr7sPDDhh7s97K7YhyIZUNX7x4nBloN+4Q9hH70wOEFvJQsO1yEPjyM
-DBHUIrb7zUU8vcvnWiKD8Z2TcLkzUZqWtNy+/MoveFKUAmHPi5DDByxdIZnXvm7DW8+FrHoHXvld
-P+FPbOoCj91vGxkJ4VMaHo6CmQLkObH+vRJFru5C9k3zOiduHhN4EvBoQWqvnwjuNMNsr/1hayeZ
-c8HoGQJOLyE63m+SmoIUxL3FUyWlXYCHGjL166l52/H5bn/+wqw20rogdQhq3ApCuYyKuoCU3EHb
-pA/sjytifv36Cf4xS39sE7MsWRe3Vbb8AL+Zn+C/jdnv/wFOFAwhpwkAAA==#>
+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#>
 #endregion
 
 <#
@@ -56,6 +53,7 @@ pA/sjytifv36Cf4xS39sE7MsWRe3Vbb8AL+Zn+C/jdnv/wFOFAwhpwkAAA==#>
 #>
 
 
+
 #----------------------------------------------
 #region Application Functions
 #----------------------------------------------
@@ -65,7 +63,7 @@ pA/sjytifv36Cf4xS39sE7MsWRe3Vbb8AL+Zn+C/jdnv/wFOFAwhpwkAAA==#>
 #----------------------------------------------
 # Generated Form Function
 #----------------------------------------------
-function Show-SCCMToolKit {
+function Show-xzcz_psf {
 
 	#----------------------------------------------
 	#region Import the Assemblies
@@ -80,25 +78,18 @@ function Show-SCCMToolKit {
 	#----------------------------------------------
 	[System.Windows.Forms.Application]::EnableVisualStyles()
 	$formSCCMToolKit = New-Object 'System.Windows.Forms.Form'
-	$groupbox3 = New-Object 'System.Windows.Forms.GroupBox'
-	$labelCCMCacheSize = New-Object 'System.Windows.Forms.Label'
-	$labelCCMCache = New-Object 'System.Windows.Forms.Label'
-	$labelFreeSpaceGB = New-Object 'System.Windows.Forms.Label'
-	$labelDiskSizeGB = New-Object 'System.Windows.Forms.Label'
-	$labelserialNumber = New-Object 'System.Windows.Forms.Label'
-	$labelenvCOMPUTERNAME = New-Object 'System.Windows.Forms.Label'
-	$labelMemory = New-Object 'System.Windows.Forms.Label'
-	$labelSpaceAvailable = New-Object 'System.Windows.Forms.Label'
-	$labelComputerName = New-Object 'System.Windows.Forms.Label'
-	$labelHardDiskSize = New-Object 'System.Windows.Forms.Label'
 	$groupbox2 = New-Object 'System.Windows.Forms.GroupBox'
 	$buttonUninstallReinstall = New-Object 'System.Windows.Forms.Button'
+	$buttonCheckWMI = New-Object 'System.Windows.Forms.Button'
 	$buttonResetRepo = New-Object 'System.Windows.Forms.Button'
 	$buttonSalvageRepo = New-Object 'System.Windows.Forms.Button'
-	$buttonVerifyRepo = New-Object 'System.Windows.Forms.Button'
 	$groupbox1 = New-Object 'System.Windows.Forms.GroupBox'
+	$buttonCheckSCCM = New-Object 'System.Windows.Forms.Button'
+	$buttonRepairSCCM = New-Object 'System.Windows.Forms.Button'
+	$buttonCCMRepairLog = New-Object 'System.Windows.Forms.Button'
+	$buttonCCMSetupLog = New-Object 'System.Windows.Forms.Button'
 	$buttonCMTrace = New-Object 'System.Windows.Forms.Button'
-	$buttonDeleteSCCM = New-Object 'System.Windows.Forms.Button'
+	$buttonUninstallSCCM = New-Object 'System.Windows.Forms.Button'
 	$buttonDelSCCMCache = New-Object 'System.Windows.Forms.Button'
 	$buttonInstallSCCM = New-Object 'System.Windows.Forms.Button'
 	$buttonSCCMLogs = New-Object 'System.Windows.Forms.Button'
@@ -106,11 +97,13 @@ function Show-SCCMToolKit {
 	$buttonRunMachinePolicy = New-Object 'System.Windows.Forms.Button'
 	$buttonRestartConfigMan = New-Object 'System.Windows.Forms.Button'
 	$labelSCCMToolKit012 = New-Object 'System.Windows.Forms.Label'
-	$labelemailaddress = New-Object 'System.Windows.Forms.Label'
+	$LabelNameNew = New-Object 'System.Windows.Forms.Label'
 	$labelContact = New-Object 'System.Windows.Forms.Label'
 	$richtextbox1 = New-Object 'System.Windows.Forms.RichTextBox'
 	$menustrip1 = New-Object 'System.Windows.Forms.MenuStrip'
 	$aboutToolStripMenuItem = New-Object 'System.Windows.Forms.ToolStripMenuItem'
+	$systemInfoToolStripMenuItem = New-Object 'System.Windows.Forms.ToolStripMenuItem'
+	$systemInfoToolStripMenuItem1 = New-Object 'System.Windows.Forms.ToolStripMenuItem'
 	$InitialFormWindowState = New-Object 'System.Windows.Forms.FormWindowState'
 	#endregion Generated Form Objects
 
@@ -124,9 +117,523 @@ function Show-SCCMToolKit {
 	$SerialNumber = (Get-WmiObject win32_bios -ComputerName $Computer).SerialNumber
 	$CCMCacheSize = Get-WmiObject -namespace root\ccm\SoftMgmtAgent -class CacheConfig
 	$CCMCache = $CCMCacheSize.Size
+	$InstDate = (Get-CimInstance Win32_OperatingSystem).InstallDate
 	$formSCCMToolKit_Load={
 		
 	}
+	
+	#requires -Version 3
+	#------------------------------------------------------------------------
+	# Source File Information (DO NOT MODIFY)
+	# Source ID: 326d0f50-9144-4008-a8a8-a04dccc726ba
+	# Source File: Computerinfo.psf
+	#------------------------------------------------------------------------
+	#region File Recovery Data (DO NOT MODIFY)
+	<#RecoveryData:
+	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#>
+	#endregion
+	
+		
+	#----------------------------------------------
+	#region Application Functions
+	#----------------------------------------------
+	
+	#endregion Application Functions
+	
+	#----------------------------------------------
+	# Generated Form Function
+	#----------------------------------------------
+	function Show-Computerinfo_psf
+	{
+		
+		#----------------------------------------------
+		#region Import the Assemblies
+		#----------------------------------------------
+		[void][reflection.assembly]::Load('System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089')
+		[void][reflection.assembly]::Load('System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a')
+		#endregion Import Assemblies
+		
+		#----------------------------------------------
+		#region Generated Form Objects
+		#----------------------------------------------
+		[System.Windows.Forms.Application]::EnableVisualStyles()
+		$formComputerInformation = New-Object 'System.Windows.Forms.Form'
+		$groupbox3 = New-Object 'System.Windows.Forms.GroupBox'
+		$labelMemInstalled = New-Object 'System.Windows.Forms.Label'
+		$labelCPUName = New-Object 'System.Windows.Forms.Label'
+		$labelCPU = New-Object 'System.Windows.Forms.Label'
+		$labelTotalMemSizeGB = New-Object 'System.Windows.Forms.Label'
+		$labelMaxMemoryGB = New-Object 'System.Windows.Forms.Label'
+		$label5 = New-Object 'System.Windows.Forms.Label'
+		$label6 = New-Object 'System.Windows.Forms.Label'
+		$label7 = New-Object 'System.Windows.Forms.Label'
+		$labelModel = New-Object 'System.Windows.Forms.Label'
+		$labelMaxMemory = New-Object 'System.Windows.Forms.Label'
+		$labelManufacturer = New-Object 'System.Windows.Forms.Label'
+		$labelIPAddress = New-Object 'System.Windows.Forms.Label'
+		$labelInstDate = New-Object 'System.Windows.Forms.Label'
+		$labelOSInstallDate = New-Object 'System.Windows.Forms.Label'
+		$labelCCMCacheSize = New-Object 'System.Windows.Forms.Label'
+		$labelCCMCache = New-Object 'System.Windows.Forms.Label'
+		$labelFreeSpaceGB = New-Object 'System.Windows.Forms.Label'
+		$labelDiskSizeGB = New-Object 'System.Windows.Forms.Label'
+		$labelserialNumber = New-Object 'System.Windows.Forms.Label'
+		$labelenvCOMPUTERNAME = New-Object 'System.Windows.Forms.Label'
+		$labelMemory = New-Object 'System.Windows.Forms.Label'
+		$labelSpaceAvailable = New-Object 'System.Windows.Forms.Label'
+		$labelComputerName = New-Object 'System.Windows.Forms.Label'
+		$labelHardDiskSize = New-Object 'System.Windows.Forms.Label'
+		$buttonOK = New-Object 'System.Windows.Forms.Button'
+		$InitialFormWindowState = New-Object 'System.Windows.Forms.FormWindowState'
+		#endregion Generated Form Objects
+		
+		#----------------------------------------------
+		# User Generated Script
+		#----------------------------------------------
+		
+		$formComputerInformation_Load = {
+			
+		}
+		$Computer = $env:COMPUTERNAME
+		$SerialNumber = (Get-WmiObject win32_bios -ComputerName $Computer).SerialNumber
+		$CCMCacheSize = Get-WmiObject -namespace root\ccm\SoftMgmtAgent -class CacheConfig
+		$CCMCache = $CCMCacheSize.Size
+		$InstDate = (Get-CimInstance Win32_OperatingSystem).InstallDate
+		$Manufacturer = Get-WmiObject win32_computersystem | Select Manufacturer
+		$Model = Get-WmiObject win32_computersystem | Select Model
+		#Gets the OS info
+		$GetOS = Get-WmiObject -class Win32_OperatingSystem -computername $Computer
+		$OS = $GetOS.Caption
+		$OSArchitecture = $GetOS.OSArchitecture
+		$OSBuildNumber = $GetOS.BuildNumber
+		#Monitor information
+		$MonitorCount = Get-ciminstance -namespace root/wmi -classname WmiMonitorConnectionParams | Select VideoOutputTechnology
+		#Gets memory information
+		$Getmemoryslot = Get-WmiObject Win32_PhysicalMemoryArray -ComputerName $computer
+		$Getmemory = Get-WMIObject Win32_PhysicalMemory -ComputerName $computer
+		$Getmemorymeasure = Get-WMIObject Win32_PhysicalMemory -ComputerName $computer | Measure-Object -Property Capacity -Sum
+		$MemorySlot = $Getmemoryslot.MemoryDevices
+		$MaxMemory = $($Getmemoryslot.MaxCapacity/1024/1024)
+		$TotalMemSticks = $Getmemorymeasure.count
+		$TotalMemSize = $($Getmemorymeasure.sum/1024/1024/1024)
+		#Get the disk info
+		$GetDiskInfo = Get-WmiObject Win32_logicaldisk -ComputerName $computer -Filter "DeviceID='C:'"
+		$DiskSize = $([math]::Round($GetDiskInfo.Size/1GB))
+		$FreeSpace = $([math]::Round($GetDiskInfo.FreeSpace/1GB))
+		$UsedSapce = $([math]::Round($DiskSize - $FreeSpace))
+		#Gets CPU info
+		$GetCPU = Get-wmiobject win32_processor -ComputerName $Computer
+		$CPUName = $GetCPU.Name
+		$CPUManufacturer = $GetCPU.Manufacturer
+		$CPUMaxClockSpeed = $GetCPU.MaxClockSpeed
+		#account status
+		$LoggedOnUser = (Get-WmiObject win32_computersystem -ComputerName $Computer).Username
+		$getLockedStart = If (Get-Process logonui -ComputerName $Computer -ErrorAction SilentlyContinue) { $Locked = "Yes" }
+		Else { $Locked = "No" }
+		#Serial Number
+		$SerialNumber = (Get-WmiObject win32_bios -ComputerName $Computer).SerialNumber
+		#get IP address
+		$IpAddress = ((ipconfig | findstr [0-9].\.)[0]).Split()[-1]
+		#Gets BIOS info
+		$BIOSName = (Get-WmiObject win32_bios -ComputerName $Computer).Name
+		$BIOSManufacturer = (Get-WmiObject win32_bios -ComputerName $Computer).Manufacturer
+		$BIOSVersionN = (Get-WmiObject win32_bios -ComputerName $Computer).Version
+		#Gets Motherboard info
+		$MotherBoardName = (Get-WmiObject Win32_BaseBoard -ComputerName $Computer).Name
+		$MotherBoardManufacturet = (Get-WmiObject Win32_BaseBoard -ComputerName $Computer).Manufacturer
+		$MotherBoardProduct = (Get-WmiObject Win32_BaseBoard -ComputerName $Computer).Product
+		$MotherBoardSerial = (Get-WmiObject Win32_BaseBoard -ComputerName $Computer).SerialNumber
+		$InstDate = (Get-CimInstance Win32_OperatingSystem).InstallDate
+		$DesktopPath = [Environment]::GetFolderPath("Desktop")
+		$MonitorC0unt = $MonitorCount -replace '@{VideoOutputTechnology=', ''
+		$MonitorCount = $MonitorC0unt -replace '}', ''
+		$M4nufacturer = $Manufacturer -replace '@{Manufacturer=', ''
+		$Manufacturer = $M4nufacturer -replace '}', ''
+		$M0del = $Model -replace '@{Model='
+		$Model = $M0del -replace '}'
+		$directories = Get-ChildItem -Path "C:\Users\" | Select -Property Name
+		$D1rectories = $directories -replace '{@{Name=', ''
+		$directories = $D1rectories -replace '}', ''
+		$M0therBoardSerial = $MotherBoardSerial -replace '/$SerialNumber/', ''
+		$MotherBoardSerial = $M0therBoardSerial -replace '/'
+		
+		
+		# --End User Generated Script--
+		#----------------------------------------------
+		#region Generated Events
+		#----------------------------------------------
+		
+		$Form_StateCorrection_Load =
+		{
+			#Correct the initial state of the form to prevent the .Net maximized form issue
+			$formComputerInformation.WindowState = $InitialFormWindowState
+		}
+		
+		$Form_Cleanup_FormClosed =
+		{
+			#Remove all event handlers from the controls
+			try
+			{
+				$formComputerInformation.remove_Load($formComputerInformation_Load)
+				$formComputerInformation.remove_Load($Form_StateCorrection_Load)
+				$formComputerInformation.remove_FormClosed($Form_Cleanup_FormClosed)
+			}
+			catch { Out-Null <# Prevent PSScriptAnalyzer warning #> }
+		}
+		#endregion Generated Events
+		
+		#----------------------------------------------
+		#region Generated Form Code
+		#----------------------------------------------
+		$formComputerInformation.SuspendLayout()
+		$groupbox3.SuspendLayout()
+		#
+		# formComputerInformation
+		#
+		$formComputerInformation.Controls.Add($groupbox3)
+		$formComputerInformation.Controls.Add($buttonOK)
+		$formComputerInformation.AcceptButton = $buttonOK
+		$formComputerInformation.AutoScaleDimensions = '6, 13'
+		$formComputerInformation.AutoScaleMode = 'Font'
+		$formComputerInformation.ClientSize = '349, 250'
+		$formComputerInformation.FormBorderStyle = 'FixedDialog'
+		$formComputerInformation.MaximizeBox = $False
+		$formComputerInformation.MinimizeBox = $False
+		$formComputerInformation.Name = 'formComputerInformation'
+		$formComputerInformation.StartPosition = 'CenterScreen'
+		$formComputerInformation.Text = 'Computer Information'
+		$formComputerInformation.add_Load($formComputerInformation_Load)
+		#
+		# groupbox3
+		#
+		$groupbox3.Controls.Add($labelMemInstalled)
+		$groupbox3.Controls.Add($labelCPUName)
+		$groupbox3.Controls.Add($labelCPU)
+		$groupbox3.Controls.Add($labelTotalMemSizeGB)
+		$groupbox3.Controls.Add($labelMaxMemoryGB)
+		$groupbox3.Controls.Add($label5)
+		$groupbox3.Controls.Add($label6)
+		$groupbox3.Controls.Add($label7)
+		$groupbox3.Controls.Add($labelModel)
+		$groupbox3.Controls.Add($labelMaxMemory)
+		$groupbox3.Controls.Add($labelManufacturer)
+		$groupbox3.Controls.Add($labelIPAddress)
+		$groupbox3.Controls.Add($labelInstDate)
+		$groupbox3.Controls.Add($labelOSInstallDate)
+		$groupbox3.Controls.Add($labelCCMCacheSize)
+		$groupbox3.Controls.Add($labelCCMCache)
+		$groupbox3.Controls.Add($labelFreeSpaceGB)
+		$groupbox3.Controls.Add($labelDiskSizeGB)
+		$groupbox3.Controls.Add($labelserialNumber)
+		$groupbox3.Controls.Add($labelenvCOMPUTERNAME)
+		$groupbox3.Controls.Add($labelMemory)
+		$groupbox3.Controls.Add($labelSpaceAvailable)
+		$groupbox3.Controls.Add($labelComputerName)
+		$groupbox3.Controls.Add($labelHardDiskSize)
+		$groupbox3.Location = '0, 12'
+		$groupbox3.Name = 'groupbox3'
+		$groupbox3.Size = '352, 202'
+		$groupbox3.TabIndex = 11
+		$groupbox3.TabStop = $False
+		$groupbox3.Text = 'System Info:'
+		$groupbox3.UseCompatibleTextRendering = $True
+		#
+		# labelMemInstalled
+		#
+		$labelMemInstalled.AutoSize = $True
+		$labelMemInstalled.Location = '6, 163'
+		$labelMemInstalled.Name = 'labelMemInstalled'
+		$labelMemInstalled.Size = '78, 17'
+		$labelMemInstalled.TabIndex = 28
+		$labelMemInstalled.Text = 'Mem Installed:'
+		$labelMemInstalled.UseCompatibleTextRendering = $True
+		#
+		# labelCPUName
+		#
+		$labelCPUName.AutoSize = $True
+		$labelCPUName.Location = '104, 178'
+		$labelCPUName.Name = 'labelCPUName'
+		$labelCPUName.Size = '65, 17'
+		$labelCPUName.TabIndex = 27
+		$labelCPUName.Text = "$CPUName"
+		$labelCPUName.UseCompatibleTextRendering = $True
+		#
+		# labelCPU
+		#
+		$labelCPU.AutoSize = $True
+		$labelCPU.Location = '6, 178'
+		$labelCPU.Name = 'labelCPU'
+		$labelCPU.Size = '34, 17'
+		$labelCPU.TabIndex = 26
+		$labelCPU.Text = 'CPU: '
+		$labelCPU.UseCompatibleTextRendering = $True
+		#
+		# labelTotalMemSizeGB
+		#
+		$labelTotalMemSizeGB.AutoSize = $True
+		$labelTotalMemSizeGB.Location = '104, 163'
+		$labelTotalMemSizeGB.Name = 'labelTotalMemSizeGB'
+		$labelTotalMemSizeGB.Size = '102, 17'
+		$labelTotalMemSizeGB.TabIndex = 25
+		$labelTotalMemSizeGB.Text = "$TotalMemSize GB"
+		$labelTotalMemSizeGB.UseCompatibleTextRendering = $True
+		#
+		# labelMaxMemoryGB
+		#
+		$labelMaxMemoryGB.AutoSize = $True
+		$labelMaxMemoryGB.Location = '104, 149'
+		$labelMaxMemoryGB.Name = 'labelMaxMemoryGB'
+		$labelMaxMemoryGB.Size = '92, 17'
+		$labelMaxMemoryGB.TabIndex = 24
+		$labelMaxMemoryGB.Text = "$MaxMemory GB"
+		$labelMaxMemoryGB.UseCompatibleTextRendering = $True
+		#
+		# label5
+		#
+		$label5.AutoSize = $True
+		$label5.Location = '104, 135'
+		$label5.Name = 'label5'
+		$label5.Size = '61, 17'
+		$label5.TabIndex = 23
+		$label5.Text = "$IpAddress"
+		$label5.UseCompatibleTextRendering = $True
+		#
+		# label6
+		#
+		$label6.AutoSize = $True
+		$label6.Location = '104, 120'
+		$label6.Name = 'label6'
+		$label6.Size = '41, 17'
+		$label6.TabIndex = 22
+		$label6.Text = "$Model"
+		$label6.UseCompatibleTextRendering = $True
+		#
+		# label7
+		#
+		$label7.AutoSize = $True
+		$label7.Location = '104, 105'
+		$label7.Name = 'label7'
+		$label7.Size = '77, 17'
+		$label7.TabIndex = 21
+		$label7.Text = "$Manufacturer"
+		$label7.UseCompatibleTextRendering = $True
+		#
+		# labelModel
+		#
+		$labelModel.AutoSize = $True
+		$labelModel.Location = '6, 120'
+		$labelModel.Name = 'labelModel'
+		$labelModel.Size = '38, 17'
+		$labelModel.TabIndex = 18
+		$labelModel.Text = 'Model:'
+		$labelModel.UseCompatibleTextRendering = $True
+		#
+		# labelMaxMemory
+		#
+		$labelMaxMemory.AutoSize = $True
+		$labelMaxMemory.Location = '6, 149'
+		$labelMaxMemory.Name = 'labelMaxMemory'
+		$labelMaxMemory.Size = '73, 17'
+		$labelMaxMemory.TabIndex = 20
+		$labelMaxMemory.Text = 'Max Memory:'
+		$labelMaxMemory.UseCompatibleTextRendering = $True
+		#
+		# labelManufacturer
+		#
+		$labelManufacturer.AutoSize = $True
+		$labelManufacturer.Location = '6, 105'
+		$labelManufacturer.Name = 'labelManufacturer'
+		$labelManufacturer.Size = '77, 17'
+		$labelManufacturer.TabIndex = 17
+		$labelManufacturer.Text = 'Manufacturer: '
+		$labelManufacturer.UseCompatibleTextRendering = $True
+		#
+		# labelIPAddress
+		#
+		$labelIPAddress.AutoSize = $True
+		$labelIPAddress.Location = '6, 135'
+		$labelIPAddress.Name = 'labelIPAddress'
+		$labelIPAddress.Size = '60, 17'
+		$labelIPAddress.TabIndex = 19
+		$labelIPAddress.Text = 'IPAddress:'
+		$labelIPAddress.UseCompatibleTextRendering = $True
+		#
+		# labelInstDate
+		#
+		$labelInstDate.AutoSize = $True
+		$labelInstDate.Location = '104, 90'
+		$labelInstDate.Name = 'labelInstDate'
+		$labelInstDate.Size = '53, 17'
+		$labelInstDate.TabIndex = 16
+		$labelInstDate.Text = "$InstDate"
+		$labelInstDate.UseCompatibleTextRendering = $True
+		#
+		# labelOSInstallDate
+		#
+		$labelOSInstallDate.AutoSize = $True
+		$labelOSInstallDate.Location = '6, 90'
+		$labelOSInstallDate.Name = 'labelOSInstallDate'
+		$labelOSInstallDate.Size = '86, 17'
+		$labelOSInstallDate.TabIndex = 15
+		$labelOSInstallDate.Text = 'OS Install Date: '
+		$labelOSInstallDate.UseCompatibleTextRendering = $True
+		#
+		# labelCCMCacheSize
+		#
+		$labelCCMCacheSize.AutoSize = $True
+		$labelCCMCacheSize.Location = '104, 75'
+		$labelCCMCacheSize.Name = 'labelCCMCacheSize'
+		$labelCCMCacheSize.Size = '69, 17'
+		$labelCCMCacheSize.TabIndex = 14
+		$labelCCMCacheSize.Text = "$CCMCache"
+		$labelCCMCacheSize.UseCompatibleTextRendering = $True
+		#
+		# labelCCMCache
+		#
+		$labelCCMCache.AutoSize = $True
+		$labelCCMCache.Location = '6, 75'
+		$labelCCMCache.Name = 'labelCCMCache'
+		$labelCCMCache.Size = '69, 17'
+		$labelCCMCache.TabIndex = 11
+		$labelCCMCache.Text = 'CCM Cache:'
+		$labelCCMCache.UseCompatibleTextRendering = $True
+		#
+		# labelFreeSpaceGB
+		#
+		$labelFreeSpaceGB.AutoSize = $True
+		$labelFreeSpaceGB.Location = '104, 60'
+		$labelFreeSpaceGB.Name = 'labelFreeSpaceGB'
+		$labelFreeSpaceGB.Size = '85, 17'
+		$labelFreeSpaceGB.TabIndex = 13
+		$labelFreeSpaceGB.Text = "$FreeSpace GB"
+		$labelFreeSpaceGB.UseCompatibleTextRendering = $True
+		#
+		# labelDiskSizeGB
+		#
+		$labelDiskSizeGB.AutoSize = $True
+		$labelDiskSizeGB.Location = '104, 46'
+		$labelDiskSizeGB.Name = 'labelDiskSizeGB'
+		$labelDiskSizeGB.Size = '74, 17'
+		$labelDiskSizeGB.TabIndex = 12
+		$labelDiskSizeGB.Text = "$DiskSize GB"
+		$labelDiskSizeGB.UseCompatibleTextRendering = $True
+		#
+		# labelserialNumber
+		#
+		$labelserialNumber.AutoSize = $True
+		$labelserialNumber.Location = '104, 31'
+		$labelserialNumber.Name = 'labelserialNumber'
+		$labelserialNumber.Size = '78, 17'
+		$labelserialNumber.TabIndex = 11
+		$labelserialNumber.Text = "$serialNumber"
+		$labelserialNumber.UseCompatibleTextRendering = $True
+		#
+		# labelenvCOMPUTERNAME
+		#
+		$labelenvCOMPUTERNAME.AutoSize = $True
+		$labelenvCOMPUTERNAME.Location = '104, 16'
+		$labelenvCOMPUTERNAME.Name = 'labelenvCOMPUTERNAME'
+		$labelenvCOMPUTERNAME.Size = '129, 17'
+		$labelenvCOMPUTERNAME.TabIndex = 10
+		$labelenvCOMPUTERNAME.Text = "$env:COMPUTERNAME"
+		$labelenvCOMPUTERNAME.UseCompatibleTextRendering = $True
+		#
+		# labelMemory
+		#
+		$labelMemory.AutoSize = $True
+		$labelMemory.Location = '6, 31'
+		$labelMemory.Name = 'labelMemory'
+		$labelMemory.Size = '80, 17'
+		$labelMemory.TabIndex = 7
+		$labelMemory.Text = 'Serial Number:'
+		$labelMemory.UseCompatibleTextRendering = $True
+		#
+		# labelSpaceAvailable
+		#
+		$labelSpaceAvailable.AutoSize = $True
+		$labelSpaceAvailable.Location = '6, 60'
+		$labelSpaceAvailable.Name = 'labelSpaceAvailable'
+		$labelSpaceAvailable.Size = '89, 17'
+		$labelSpaceAvailable.TabIndex = 9
+		$labelSpaceAvailable.Text = 'Space Available:'
+		$labelSpaceAvailable.UseCompatibleTextRendering = $True
+		#
+		# labelComputerName
+		#
+		$labelComputerName.AutoSize = $True
+		$labelComputerName.Location = '6, 16'
+		$labelComputerName.Name = 'labelComputerName'
+		$labelComputerName.Size = '93, 17'
+		$labelComputerName.TabIndex = 6
+		$labelComputerName.Text = 'Computer Name: '
+		$labelComputerName.UseCompatibleTextRendering = $True
+		#
+		# labelHardDiskSize
+		#
+		$labelHardDiskSize.AutoSize = $True
+		$labelHardDiskSize.Location = '6, 46'
+		$labelHardDiskSize.Name = 'labelHardDiskSize'
+		$labelHardDiskSize.Size = '82, 17'
+		$labelHardDiskSize.TabIndex = 8
+		$labelHardDiskSize.Text = 'Hard Disk Size:'
+		$labelHardDiskSize.UseCompatibleTextRendering = $True
+		#
+		# buttonOK
+		#
+		$buttonOK.Anchor = 'Bottom, Right'
+		$buttonOK.DialogResult = 'OK'
+		$buttonOK.Location = '262, 215'
+		$buttonOK.Name = 'buttonOK'
+		$buttonOK.Size = '75, 23'
+		$buttonOK.TabIndex = 0
+		$buttonOK.Text = '&OK'
+		$buttonOK.UseCompatibleTextRendering = $True
+		$buttonOK.UseVisualStyleBackColor = $True
+		$groupbox3.ResumeLayout()
+		$formComputerInformation.ResumeLayout()
+		#endregion Generated Form Code
+		
+		#----------------------------------------------
+		
+		#Save the initial state of the form
+		$InitialFormWindowState = $formComputerInformation.WindowState
+		#Init the OnLoad event to correct the initial state of the form
+		$formComputerInformation.add_Load($Form_StateCorrection_Load)
+		#Clean up the control events
+		$formComputerInformation.add_FormClosed($Form_Cleanup_FormClosed)
+		#Show the Form
+		return $formComputerInformation.ShowDialog()
+		
+	} #End Function
+	
+	
 	function Show-AboutForm_psf
 	{
 		
@@ -578,6 +1085,11 @@ function Show-SCCMToolKit {
 		cmd /c "C:\WINDOWS\CCM\CMTrace.exe"
 		$richtextbox1.Text += "`nStarted CMTrace."
 	}
+	function CcmRepair1
+	{
+		cmd /c "C:\Windows\CCM\ccmrepair.exe"
+		$richtextbox1.Text += "`nStarted CCMRepair."
+	}
 	function CcmRestart
 	{
 		$salvageRepo = (winmgmt /salvagerepository) | Out-String
@@ -600,12 +1112,172 @@ function Show-SCCMToolKit {
 		taskmgr
 		cmd /c 'MD C:\Windows\CCM'
 		Invoke-Item c:\windows\ccmsetup\
-		cmd /c 'copy "\\dbfsvs02.erau.edu\itdb\Software\SCCM\Client\ccmsetup\ccmsetup.exe" "C:\Windows\CCM\ccmsetup.exe" /Z /Y'
+		cmd /c 'copy "\\Serverlocation\ccmsetup.exe" "C:\Windows\CCM\ccmsetup.exe" /Z /Y'
 		$ps.StartInfo.Filename = "C:\windows\CCM\ccmsetup.exe"
 		$ps.StartInfo.Arguments = " /forceinstall"
 		$ps.start()
 		$ps.WaitForExit()
 		$richtextbox1.Text += "`nStarted CCM Setup."
+	}
+	
+	function Get-CCMLogDirectory
+	{
+		$obj = (Get-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\CCM\Logging\@Global').LogDirectory
+		if ($null -eq $obj) { $obj = "$env:SystemDrive\windows\ccm\Logs" }
+		Write-Output $obj
+	}
+	function Get-CCMDirectory
+	{
+		$logdir = Get-CCMLogDirectory
+		$obj = $logdir.replace("\Logs", "")
+		Write-Output $obj
+	}
+	
+	function CCMSQLCELog
+	{
+		$richtextbox1.Text += "`nChecks the CM client to see if it is in debug mode. Also checks the CcmSQLCE.log file. If so warns and starts the SDF file cleanup and reinstall of the CM client."
+		$richtextbox1.Text += "`nThen stops the service and deletes the sdf files. I do not delete the client automatically in case you are remotely connected to the PC."
+		$logdir = Get-CCMLogDirectory
+		$ccmdir = Get-CCMDirectory
+		$logFile = "$logdir\CcmSQLCE.log"
+		$logLevel = (Get-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\CCM\Logging\@Global').logLevel
+		
+		if ((Test-Path -Path $logFile) -and ($logLevel -ne 0))
+		{
+			# Not in debug mode, and CcmSQLCE.log exists. This could be bad.
+			$LastWriteTime = (Get-ChildItem $logFile).LastWriteTime
+			$CreationTime = (Get-ChildItem $logFile).CreationTime
+			$FileDate = Get-Date($LastWriteTime)
+			$FileCreated = Get-Date($CreationTime)
+			
+			$now = Get-Date
+			if ((($now - $FileDate).Days -lt 7) -and ((($now - $FileCreated).Days) -gt 7))
+			{
+				$text = "CM client not in debug mode, and CcmSQLCE.log exists. This is very bad. Cleaning up local SDF files and reinstalling CM client"
+				$richtextbox1.Text += $text
+				# Delete *.SDF Files
+				$Service = Get-Service -Name ccmexec
+				$Service.Stop()
+				
+				$seconds = 0
+				Do
+				{
+					Start-Sleep -Seconds 1
+					$seconds++
+				}
+				while (($Service.Status -ne "Stopped") -and ($seconds -le 60))
+				
+				# Do another test to make sure CcmExec service really is stopped
+				if ($Service.Status -ne "Stopped") { Stop-Service -Name ccmexec -Force }
+				
+				$richtextbox1.Text += "`nWaiting 10 seconds to allow file locking issues to clear up"
+				Start-Sleep -seconds 10
+				
+				try
+				{
+					$files = Get-ChildItem "$ccmdir\*.sdf"
+					$files | Remove-Item -Force | Out-Null
+					Remove-Item -Path $logFile -Force | Out-Null
+				}
+				catch
+				{
+					$richtextbox1.Text += "`nObviously that wasn't enough time"
+					Start-Sleep -Seconds 30
+					# We try again
+					$files = Get-ChildItem "$ccmdir\*.sdf"
+					$files | Remove-Item -Force | Out-Null
+					Remove-Item -Path $logFile -Force | Out-Null
+				}
+				
+				$obj = $true
+			}
+			
+			# CcmSQLCE.log has not been updated for two days. We are good for now.
+			else { $obj = $false }
+		}
+		
+		# we are good
+		else { $obj = $false }
+		$richtextbox1.Text += $obj
+	}
+	
+	
+	
+	
+	function TestWMIClient
+	{
+		$richtextbox1.Text += "`n This tests two commands. The first command is winmgmt /verifyrepository. Based off the outcome of this the script will vote to uninstall/reinstall WMI. The next command that runs is Get-CimInstance. If it fails it reports back an error and votes for a fix. If the script votes for a fix with either of the commands then it runs the uninstall/reinstall WMI commands so you do not have to. "
+		$vote = 0
+		$result = winmgmt /verifyrepository
+		switch -wildcard ($result)
+		{
+			# Always fix if this returns inconsistent
+			"*inconsistent*" { $vote = 100 } # English
+			"*not consistent*"  { $vote = 100 } # English
+			"*inkonsekvent*" { $vote = 100 } # Swedish
+			"*epäyhtenäinen*" { $vote = 100 } # Finnish
+			"*inkonsistent*" { $vote = 100 } # German
+			# Add more languages as I learn their inconsistent value
+			# Not needed but I am building a skillset so I wrote it out as I know it.
+			
+		}
+		
+		Try
+		{
+			if ($PowerShellVersion -ge 6) { $WMI = Get-CimInstance Win32_ComputerSystem -ErrorAction Stop }
+			else { $WMI = Get-WmiObject Win32_ComputerSystem -ErrorAction Stop }
+			
+		}
+		Catch
+		{
+			$richtextbox1.Text += "`nFailed to connect to WMI class Win32_ComputerSystem. Voting for WMI fix...'"
+			$vote++
+			
+		}
+		
+		Try
+		{
+			if ($PowerShellVersion -ge 6) { $WMI = Get-CimInstance -Namespace root/ccm -Class SMS_Client -ErrorAction Stop }
+			else { $WMI = Get-WmiObject -Namespace root/ccm -Class SMS_Client -ErrorAction Stop }
+			
+		}
+		Catch
+		{
+			$richtextbox1.Text += "`nFailed to connect to WMI namespace root ccm class SMS_Client. Tagging client for reinstall instead of WMI fix."
+			$obj = $true
+			
+		}
+		Finally
+		{
+			if ($vote -eq 0)
+			{
+				$richtextbox1.Text += "`nWMI Check: OK"
+				$obj = $false
+				
+			}
+			else
+			{
+				$fix = Get-XMLConfigWMIRepairEnable
+				if ($fix -like "True")
+				{
+					$richtextbox1.Text += "`nWMI Check: Corrupt. Attempting to repair WMI and reinstall ConfigMgr client."
+					Write-Warning $text
+					rebuildWMI
+				}
+				else
+				{
+					$richtextbox1.Text += "`nWMI Check: Corrupt. Autofix is disabled"
+					Write-Warning $text
+					
+				}
+				$richtextbox1.Text += "`nReturning true to tag client for reinstall"
+				$obj = $true
+				
+			}
+			#Out-LogFile -Xml $xml -Text $text
+			#Write-Output $obj
+			
+		}
 	}
 	
 	$buttonRestartConfigMan_Click={
@@ -632,7 +1304,7 @@ function Show-SCCMToolKit {
 		DeleteCache
 	}
 	
-	$buttonDeleteSCCM_Click={
+	$buttonUninstallSCCM_Click={
 		DeleteSCCM
 	}
 	
@@ -652,19 +1324,36 @@ function Show-SCCMToolKit {
 		rebuildWMI
 	}
 	
-	$labelserialNumber_Click={
-		#TODO: Place custom script here
-		
-	}
-	
 	$aboutToolStripMenuItem_Click={
-		#TODO: Place custom script here
 		Show-AboutForm_psf
 	}
 	
 	$buttonCMTrace_Click={
-		#TODO: Place custom script here
 		cmTrace
+		Invoke-Item C:\Windows\CCM\Logs
+	}
+	
+	$buttonCheckWMI_Click={
+		TestWMIClient
+	}
+	
+	$systemInfoToolStripMenuItem1_Click={
+		
+		Show-Computerinfo_psf | Out-Null
+	}
+	
+	$buttonCCMSetupLog_Click={
+		$FileLocation = 'C:\Windows\ccmsetup\Logs\ccmsetup.log'
+		Start-Process C:\WINDOWS\CCM\CMTrace.exe $FileLocation
+	}
+	
+	$buttonCCMRepairLog_Click={
+		$FileLocation = 'C:\Windows\CCM\Logs\CcmRepair.log'
+		Start-Process C:\WINDOWS\CCM\CMTrace.exe $FileLocation
+	}
+	
+	$buttonRepairSCCM_Click={
+		CcmRepair1
 	}
 	
 	# --End User Generated Script--
@@ -683,13 +1372,15 @@ function Show-SCCMToolKit {
 		#Remove all event handlers from the controls
 		try
 		{
-			$labelserialNumber.remove_Click($labelserialNumber_Click)
 			$buttonUninstallReinstall.remove_Click($buttonUninstallReinstall_Click)
+			$buttonCheckWMI.remove_Click($buttonCheckWMI_Click)
 			$buttonResetRepo.remove_Click($buttonResetRepo_Click)
 			$buttonSalvageRepo.remove_Click($buttonSalvageRepo_Click)
-			$buttonVerifyRepo.remove_Click($buttonVerifyRepo_Click)
+			$buttonRepairSCCM.remove_Click($buttonRepairSCCM_Click)
+			$buttonCCMRepairLog.remove_Click($buttonCCMRepairLog_Click)
+			$buttonCCMSetupLog.remove_Click($buttonCCMSetupLog_Click)
 			$buttonCMTrace.remove_Click($buttonCMTrace_Click)
-			$buttonDeleteSCCM.remove_Click($buttonDeleteSCCM_Click)
+			$buttonUninstallSCCM.remove_Click($buttonUninstallSCCM_Click)
 			$buttonDelSCCMCache.remove_Click($buttonDelSCCMCache_Click)
 			$buttonInstallSCCM.remove_Click($buttonInstallSCCM_Click)
 			$buttonSCCMLogs.remove_Click($buttonSCCMLogs_Click)
@@ -698,6 +1389,7 @@ function Show-SCCMToolKit {
 			$buttonRestartConfigMan.remove_Click($buttonRestartConfigMan_Click)
 			$formSCCMToolKit.remove_Load($formSCCMToolKit_Load)
 			$aboutToolStripMenuItem.remove_Click($aboutToolStripMenuItem_Click)
+			$systemInfoToolStripMenuItem1.remove_Click($systemInfoToolStripMenuItem1_Click)
 			$formSCCMToolKit.remove_Load($Form_StateCorrection_Load)
 			$formSCCMToolKit.remove_FormClosed($Form_Cleanup_FormClosed)
 		}
@@ -709,18 +1401,16 @@ function Show-SCCMToolKit {
 	#region Generated Form Code
 	#----------------------------------------------
 	$formSCCMToolKit.SuspendLayout()
-	$groupbox3.SuspendLayout()
 	$groupbox2.SuspendLayout()
 	$groupbox1.SuspendLayout()
 	$menustrip1.SuspendLayout()
 	#
 	# formSCCMToolKit
 	#
-	$formSCCMToolKit.Controls.Add($groupbox3)
 	$formSCCMToolKit.Controls.Add($groupbox2)
 	$formSCCMToolKit.Controls.Add($groupbox1)
 	$formSCCMToolKit.Controls.Add($labelSCCMToolKit012)
-	$formSCCMToolKit.Controls.Add($labelemailaddress)
+	$formSCCMToolKit.Controls.Add($LabelNameNew)
 	$formSCCMToolKit.Controls.Add($labelContact)
 	$formSCCMToolKit.Controls.Add($richtextbox1)
 	$formSCCMToolKit.Controls.Add($menustrip1)
@@ -732,136 +1422,15 @@ function Show-SCCMToolKit {
 	$formSCCMToolKit.Text = 'SCCM ToolKit'
 	$formSCCMToolKit.add_Load($formSCCMToolKit_Load)
 	#
-	# groupbox3
-	#
-	$groupbox3.Controls.Add($labelCCMCacheSize)
-	$groupbox3.Controls.Add($labelCCMCache)
-	$groupbox3.Controls.Add($labelFreeSpaceGB)
-	$groupbox3.Controls.Add($labelDiskSizeGB)
-	$groupbox3.Controls.Add($labelserialNumber)
-	$groupbox3.Controls.Add($labelenvCOMPUTERNAME)
-	$groupbox3.Controls.Add($labelMemory)
-	$groupbox3.Controls.Add($labelSpaceAvailable)
-	$groupbox3.Controls.Add($labelComputerName)
-	$groupbox3.Controls.Add($labelHardDiskSize)
-	$groupbox3.Location = '155, 207'
-	$groupbox3.Name = 'groupbox3'
-	$groupbox3.Size = '217, 92'
-	$groupbox3.TabIndex = 10
-	$groupbox3.TabStop = $False
-	$groupbox3.Text = 'System Info:'
-	$groupbox3.UseCompatibleTextRendering = $True
-	#
-	# labelCCMCacheSize
-	#
-	$labelCCMCacheSize.AutoSize = $True
-	$labelCCMCacheSize.Location = '104, 75'
-	$labelCCMCacheSize.Name = 'labelCCMCacheSize'
-	$labelCCMCacheSize.Size = '69, 17'
-	$labelCCMCacheSize.TabIndex = 14
-	$labelCCMCacheSize.Text = "$CCMCache"
-	$labelCCMCacheSize.UseCompatibleTextRendering = $True
-	#
-	# labelCCMCache
-	#
-	$labelCCMCache.AutoSize = $True
-	$labelCCMCache.Location = '6, 75'
-	$labelCCMCache.Name = 'labelCCMCache'
-	$labelCCMCache.Size = '69, 17'
-	$labelCCMCache.TabIndex = 11
-	$labelCCMCache.Text = 'CCM Cache:'
-	$labelCCMCache.UseCompatibleTextRendering = $True
-	#
-	# labelFreeSpaceGB
-	#
-	$labelFreeSpaceGB.AutoSize = $True
-	$labelFreeSpaceGB.Location = '104, 60'
-	$labelFreeSpaceGB.Name = 'labelFreeSpaceGB'
-	$labelFreeSpaceGB.Size = '85, 17'
-	$labelFreeSpaceGB.TabIndex = 13
-	$labelFreeSpaceGB.Text = "$FreeSpace GB"
-	$labelFreeSpaceGB.UseCompatibleTextRendering = $True
-	#
-	# labelDiskSizeGB
-	#
-	$labelDiskSizeGB.AutoSize = $True
-	$labelDiskSizeGB.Location = '104, 46'
-	$labelDiskSizeGB.Name = 'labelDiskSizeGB'
-	$labelDiskSizeGB.Size = '74, 17'
-	$labelDiskSizeGB.TabIndex = 12
-	$labelDiskSizeGB.Text = "$DiskSize GB"
-	$labelDiskSizeGB.UseCompatibleTextRendering = $True
-	#
-	# labelserialNumber
-	#
-	$labelserialNumber.AutoSize = $True
-	$labelserialNumber.Location = '104, 31'
-	$labelserialNumber.Name = 'labelserialNumber'
-	$labelserialNumber.Size = '78, 17'
-	$labelserialNumber.TabIndex = 11
-	$labelserialNumber.Text = "$serialNumber"
-	$labelserialNumber.UseCompatibleTextRendering = $True
-	$labelserialNumber.add_Click($labelserialNumber_Click)
-	#
-	# labelenvCOMPUTERNAME
-	#
-	$labelenvCOMPUTERNAME.AutoSize = $True
-	$labelenvCOMPUTERNAME.Location = '104, 16'
-	$labelenvCOMPUTERNAME.Name = 'labelenvCOMPUTERNAME'
-	$labelenvCOMPUTERNAME.Size = '129, 17'
-	$labelenvCOMPUTERNAME.TabIndex = 10
-	$labelenvCOMPUTERNAME.Text = "$env:COMPUTERNAME"
-	$labelenvCOMPUTERNAME.UseCompatibleTextRendering = $True
-	#
-	# labelMemory
-	#
-	$labelMemory.AutoSize = $True
-	$labelMemory.Location = '6, 31'
-	$labelMemory.Name = 'labelMemory'
-	$labelMemory.Size = '80, 17'
-	$labelMemory.TabIndex = 7
-	$labelMemory.Text = 'Serial Number:'
-	$labelMemory.UseCompatibleTextRendering = $True
-	#
-	# labelSpaceAvailable
-	#
-	$labelSpaceAvailable.AutoSize = $True
-	$labelSpaceAvailable.Location = '6, 60'
-	$labelSpaceAvailable.Name = 'labelSpaceAvailable'
-	$labelSpaceAvailable.Size = '89, 17'
-	$labelSpaceAvailable.TabIndex = 9
-	$labelSpaceAvailable.Text = 'Space Available:'
-	$labelSpaceAvailable.UseCompatibleTextRendering = $True
-	#
-	# labelComputerName
-	#
-	$labelComputerName.AutoSize = $True
-	$labelComputerName.Location = '6, 16'
-	$labelComputerName.Name = 'labelComputerName'
-	$labelComputerName.Size = '93, 17'
-	$labelComputerName.TabIndex = 6
-	$labelComputerName.Text = 'Computer Name: '
-	$labelComputerName.UseCompatibleTextRendering = $True
-	#
-	# labelHardDiskSize
-	#
-	$labelHardDiskSize.AutoSize = $True
-	$labelHardDiskSize.Location = '6, 46'
-	$labelHardDiskSize.Name = 'labelHardDiskSize'
-	$labelHardDiskSize.Size = '82, 17'
-	$labelHardDiskSize.TabIndex = 8
-	$labelHardDiskSize.Text = 'Hard Disk Size:'
-	$labelHardDiskSize.UseCompatibleTextRendering = $True
-	#
 	# groupbox2
 	#
 	$groupbox2.Controls.Add($buttonUninstallReinstall)
+	$groupbox2.Controls.Add($buttonCheckWMI)
 	$groupbox2.Controls.Add($buttonResetRepo)
 	$groupbox2.Controls.Add($buttonSalvageRepo)
-	$groupbox2.Controls.Add($buttonVerifyRepo)
-	$groupbox2.Location = '245, 41'
+	$groupbox2.Location = '245, 44'
 	$groupbox2.Name = 'groupbox2'
-	$groupbox2.Size = '127, 138'
+	$groupbox2.Size = '127, 134'
 	$groupbox2.TabIndex = 5
 	$groupbox2.TabStop = $False
 	$groupbox2.Text = 'WMI'
@@ -870,14 +1439,25 @@ function Show-SCCMToolKit {
 	# buttonUninstallReinstall
 	#
 	$buttonUninstallReinstall.BackColor = 'Tomato'
-	$buttonUninstallReinstall.Location = '7, 109'
+	$buttonUninstallReinstall.Location = '7, 107'
 	$buttonUninstallReinstall.Name = 'buttonUninstallReinstall'
-	$buttonUninstallReinstall.Size = '112, 23'
-	$buttonUninstallReinstall.TabIndex = 3
+	$buttonUninstallReinstall.Size = '114, 23'
+	$buttonUninstallReinstall.TabIndex = 5
 	$buttonUninstallReinstall.Text = 'Uninstall/Reinstall'
 	$buttonUninstallReinstall.UseCompatibleTextRendering = $True
 	$buttonUninstallReinstall.UseVisualStyleBackColor = $False
 	$buttonUninstallReinstall.add_Click($buttonUninstallReinstall_Click)
+	#
+	# buttonCheckWMI
+	#
+	$buttonCheckWMI.Location = '6, 19'
+	$buttonCheckWMI.Name = 'buttonCheckWMI'
+	$buttonCheckWMI.Size = '111, 23'
+	$buttonCheckWMI.TabIndex = 4
+	$buttonCheckWMI.Text = 'Check WMI'
+	$buttonCheckWMI.UseCompatibleTextRendering = $True
+	$buttonCheckWMI.UseVisualStyleBackColor = $True
+	$buttonCheckWMI.add_Click($buttonCheckWMI_Click)
 	#
 	# buttonResetRepo
 	#
@@ -901,38 +1481,74 @@ function Show-SCCMToolKit {
 	$buttonSalvageRepo.UseVisualStyleBackColor = $True
 	$buttonSalvageRepo.add_Click($buttonSalvageRepo_Click)
 	#
-	# buttonVerifyRepo
-	#
-	$buttonVerifyRepo.Location = '7, 19'
-	$buttonVerifyRepo.Name = 'buttonVerifyRepo'
-	$buttonVerifyRepo.Size = '112, 23'
-	$buttonVerifyRepo.TabIndex = 1
-	$buttonVerifyRepo.Text = 'Verify Repo'
-	$buttonVerifyRepo.UseCompatibleTextRendering = $True
-	$buttonVerifyRepo.UseVisualStyleBackColor = $True
-	$buttonVerifyRepo.add_Click($buttonVerifyRepo_Click)
-	#
 	# groupbox1
 	#
+	$groupbox1.Controls.Add($buttonCheckSCCM)
+	$groupbox1.Controls.Add($buttonRepairSCCM)
+	$groupbox1.Controls.Add($buttonCCMRepairLog)
+	$groupbox1.Controls.Add($buttonCCMSetupLog)
 	$groupbox1.Controls.Add($buttonCMTrace)
-	$groupbox1.Controls.Add($buttonDeleteSCCM)
+	$groupbox1.Controls.Add($buttonUninstallSCCM)
 	$groupbox1.Controls.Add($buttonDelSCCMCache)
 	$groupbox1.Controls.Add($buttonInstallSCCM)
 	$groupbox1.Controls.Add($buttonSCCMLogs)
 	$groupbox1.Controls.Add($buttonClientHealthEval)
 	$groupbox1.Controls.Add($buttonRunMachinePolicy)
 	$groupbox1.Controls.Add($buttonRestartConfigMan)
-	$groupbox1.Location = '13, 41'
+	$groupbox1.Location = '5, 44'
 	$groupbox1.Name = 'groupbox1'
-	$groupbox1.Size = '127, 258'
+	$groupbox1.Size = '238, 165'
 	$groupbox1.TabIndex = 4
 	$groupbox1.TabStop = $False
 	$groupbox1.Text = 'SCCM'
 	$groupbox1.UseCompatibleTextRendering = $True
 	#
+	# buttonCheckSCCM
+	#
+	$buttonCheckSCCM.Location = '121, 134'
+	$buttonCheckSCCM.Name = 'buttonCheckSCCM'
+	$buttonCheckSCCM.Size = '112, 23'
+	$buttonCheckSCCM.TabIndex = 12
+	$buttonCheckSCCM.Text = 'Check SCCM'
+	$buttonCheckSCCM.UseCompatibleTextRendering = $True
+	$buttonCheckSCCM.UseVisualStyleBackColor = $True
+	#
+	# buttonRepairSCCM
+	#
+	$buttonRepairSCCM.Location = '7, 134'
+	$buttonRepairSCCM.Name = 'buttonRepairSCCM'
+	$buttonRepairSCCM.Size = '112, 23'
+	$buttonRepairSCCM.TabIndex = 11
+	$buttonRepairSCCM.Text = 'Repair SCCM'
+	$buttonRepairSCCM.UseCompatibleTextRendering = $True
+	$buttonRepairSCCM.UseVisualStyleBackColor = $True
+	$buttonRepairSCCM.add_Click($buttonRepairSCCM_Click)
+	#
+	# buttonCCMRepairLog
+	#
+	$buttonCCMRepairLog.Location = '121, 111'
+	$buttonCCMRepairLog.Name = 'buttonCCMRepairLog'
+	$buttonCCMRepairLog.Size = '112, 23'
+	$buttonCCMRepairLog.TabIndex = 10
+	$buttonCCMRepairLog.Text = 'CCMRepair Log'
+	$buttonCCMRepairLog.UseCompatibleTextRendering = $True
+	$buttonCCMRepairLog.UseVisualStyleBackColor = $True
+	$buttonCCMRepairLog.add_Click($buttonCCMRepairLog_Click)
+	#
+	# buttonCCMSetupLog
+	#
+	$buttonCCMSetupLog.Location = '7, 111'
+	$buttonCCMSetupLog.Name = 'buttonCCMSetupLog'
+	$buttonCCMSetupLog.Size = '112, 23'
+	$buttonCCMSetupLog.TabIndex = 9
+	$buttonCCMSetupLog.Text = 'CCMSetup Log'
+	$buttonCCMSetupLog.UseCompatibleTextRendering = $True
+	$buttonCCMSetupLog.UseVisualStyleBackColor = $True
+	$buttonCCMSetupLog.add_Click($buttonCCMSetupLog_Click)
+	#
 	# buttonCMTrace
 	#
-	$buttonCMTrace.Location = '7, 228'
+	$buttonCMTrace.Location = '121, 88'
 	$buttonCMTrace.Name = 'buttonCMTrace'
 	$buttonCMTrace.Size = '112, 23'
 	$buttonCMTrace.TabIndex = 8
@@ -941,22 +1557,22 @@ function Show-SCCMToolKit {
 	$buttonCMTrace.UseVisualStyleBackColor = $True
 	$buttonCMTrace.add_Click($buttonCMTrace_Click)
 	#
-	# buttonDeleteSCCM
+	# buttonUninstallSCCM
 	#
-	$buttonDeleteSCCM.BackColor = 'Tomato'
-	$buttonDeleteSCCM.Location = '7, 198'
-	$buttonDeleteSCCM.Name = 'buttonDeleteSCCM'
-	$buttonDeleteSCCM.Size = '112, 23'
-	$buttonDeleteSCCM.TabIndex = 7
-	$buttonDeleteSCCM.Text = 'Delete SCCM'
-	$buttonDeleteSCCM.UseCompatibleTextRendering = $True
-	$buttonDeleteSCCM.UseVisualStyleBackColor = $False
-	$buttonDeleteSCCM.add_Click($buttonDeleteSCCM_Click)
+	$buttonUninstallSCCM.BackColor = 'Tomato'
+	$buttonUninstallSCCM.Location = '121, 65'
+	$buttonUninstallSCCM.Name = 'buttonUninstallSCCM'
+	$buttonUninstallSCCM.Size = '112, 23'
+	$buttonUninstallSCCM.TabIndex = 7
+	$buttonUninstallSCCM.Text = 'Uninstall SCCM'
+	$buttonUninstallSCCM.UseCompatibleTextRendering = $True
+	$buttonUninstallSCCM.UseVisualStyleBackColor = $False
+	$buttonUninstallSCCM.add_Click($buttonUninstallSCCM_Click)
 	#
 	# buttonDelSCCMCache
 	#
 	$buttonDelSCCMCache.BackColor = 'Tomato'
-	$buttonDelSCCMCache.Location = '7, 169'
+	$buttonDelSCCMCache.Location = '121, 42'
 	$buttonDelSCCMCache.Name = 'buttonDelSCCMCache'
 	$buttonDelSCCMCache.Size = '112, 23'
 	$buttonDelSCCMCache.TabIndex = 5
@@ -967,7 +1583,7 @@ function Show-SCCMToolKit {
 	#
 	# buttonInstallSCCM
 	#
-	$buttonInstallSCCM.Location = '7, 140'
+	$buttonInstallSCCM.Location = '121, 19'
 	$buttonInstallSCCM.Name = 'buttonInstallSCCM'
 	$buttonInstallSCCM.Size = '112, 23'
 	$buttonInstallSCCM.TabIndex = 4
@@ -978,7 +1594,7 @@ function Show-SCCMToolKit {
 	#
 	# buttonSCCMLogs
 	#
-	$buttonSCCMLogs.Location = '7, 110'
+	$buttonSCCMLogs.Location = '7, 88'
 	$buttonSCCMLogs.Name = 'buttonSCCMLogs'
 	$buttonSCCMLogs.Size = '112, 23'
 	$buttonSCCMLogs.TabIndex = 3
@@ -989,7 +1605,7 @@ function Show-SCCMToolKit {
 	#
 	# buttonClientHealthEval
 	#
-	$buttonClientHealthEval.Location = '7, 80'
+	$buttonClientHealthEval.Location = '7, 65'
 	$buttonClientHealthEval.Name = 'buttonClientHealthEval'
 	$buttonClientHealthEval.Size = '112, 23'
 	$buttonClientHealthEval.TabIndex = 2
@@ -1000,7 +1616,7 @@ function Show-SCCMToolKit {
 	#
 	# buttonRunMachinePolicy
 	#
-	$buttonRunMachinePolicy.Location = '7, 50'
+	$buttonRunMachinePolicy.Location = '7, 42'
 	$buttonRunMachinePolicy.Name = 'buttonRunMachinePolicy'
 	$buttonRunMachinePolicy.Size = '112, 23'
 	$buttonRunMachinePolicy.TabIndex = 1
@@ -1011,7 +1627,7 @@ function Show-SCCMToolKit {
 	#
 	# buttonRestartConfigMan
 	#
-	$buttonRestartConfigMan.Location = '7, 20'
+	$buttonRestartConfigMan.Location = '7, 19'
 	$buttonRestartConfigMan.Name = 'buttonRestartConfigMan'
 	$buttonRestartConfigMan.Size = '112, 23'
 	$buttonRestartConfigMan.TabIndex = 0
@@ -1027,18 +1643,18 @@ function Show-SCCMToolKit {
 	$labelSCCMToolKit012.Name = 'labelSCCMToolKit012'
 	$labelSCCMToolKit012.Size = '104, 17'
 	$labelSCCMToolKit012.TabIndex = 3
-	$labelSCCMToolKit012.Text = 'SCCM ToolKit 0.1.2'
+	$labelSCCMToolKit012.Text = 'SCCM ToolKit 0.1.5'
 	$labelSCCMToolKit012.UseCompatibleTextRendering = $True
 	#
-	# labelemailaddress
+	# LabelNameNew
 	#
-	$labelemailaddress.AutoSize = $True
-	$labelemailaddress.Location = '176, 444'
-	$labelemailaddress.Name = 'labelemailaddress'
-	$labelemailaddress.Size = '109, 17'
-	$labelemailaddress.TabIndex = 2
-	$labelemailaddress.Text = 'alan.newingham@gmail.com'
-	$labelemailaddress.UseCompatibleTextRendering = $True
+	$LabelNameNew.AutoSize = $True
+	$LabelNameNew.Location = '176, 444'
+	$LabelNameNew.Name = 'LabelNameNew'
+	$LabelNameNew.Size = '109, 17'
+	$LabelNameNew.TabIndex = 2
+	$LabelNameNew.Text = 'alan.newingham@gmail.com'
+	$LabelNameNew.UseCompatibleTextRendering = $True
 	#
 	# labelContact
 	#
@@ -1052,15 +1668,16 @@ function Show-SCCMToolKit {
 	#
 	# richtextbox1
 	#
-	$richtextbox1.Location = '13, 305'
+	$richtextbox1.Location = '13, 215'
 	$richtextbox1.Name = 'richtextbox1'
-	$richtextbox1.Size = '359, 132'
+	$richtextbox1.Size = '359, 222'
 	$richtextbox1.TabIndex = 0
 	$richtextbox1.Text = ''
 	#
 	# menustrip1
 	#
 	[void]$menustrip1.Items.Add($aboutToolStripMenuItem)
+	[void]$menustrip1.Items.Add($systemInfoToolStripMenuItem)
 	$menustrip1.Location = '0, 0'
 	$menustrip1.Name = 'menustrip1'
 	$menustrip1.Size = '384, 24'
@@ -1073,16 +1690,29 @@ function Show-SCCMToolKit {
 	$aboutToolStripMenuItem.Size = '52, 20'
 	$aboutToolStripMenuItem.Text = 'About'
 	$aboutToolStripMenuItem.add_Click($aboutToolStripMenuItem_Click)
+	#
+	# systemInfoToolStripMenuItem
+	#
+	[void]$systemInfoToolStripMenuItem.DropDownItems.Add($systemInfoToolStripMenuItem1)
+	$systemInfoToolStripMenuItem.Name = 'systemInfoToolStripMenuItem'
+	$systemInfoToolStripMenuItem.Size = '97, 20'
+	$systemInfoToolStripMenuItem.Text = 'Computer Info'
+	#
+	# systemInfoToolStripMenuItem1
+	#
+	$systemInfoToolStripMenuItem1.Name = 'systemInfoToolStripMenuItem1'
+	$systemInfoToolStripMenuItem1.Size = '152, 22'
+	$systemInfoToolStripMenuItem1.Text = 'System Info'
+	$systemInfoToolStripMenuItem1.add_Click($systemInfoToolStripMenuItem1_Click)
 	$menustrip1.ResumeLayout()
 	$groupbox1.ResumeLayout()
 	$groupbox2.ResumeLayout()
-	$groupbox3.ResumeLayout()
 	$formSCCMToolKit.ResumeLayout()
 	#endregion Generated Form Code
 
 	#----------------------------------------------
-
-	#Save the initial state of the form
+	$richtextbox1.Text += "Welcome to the SCCM ToolKit."
+		#Save the initial state of the form
 	$InitialFormWindowState = $formSCCMToolKit.WindowState
 	#Init the OnLoad event to correct the initial state of the form
 	$formSCCMToolKit.add_Load($Form_StateCorrection_Load)
@@ -1094,4 +1724,4 @@ function Show-SCCMToolKit {
 } #End Function
 
 #Call the form
-Show-SCCMToolKit | Out-Null
+Show-xzcz_psf | Out-Null
