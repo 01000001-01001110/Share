@@ -136,33 +136,14 @@ function Show-ProfileBackup {
 		
 	}
 	
-	#region Control Helper Functions
-	<#
-		.SYNOPSIS
-			Sets the emulation of the WebBrowser control for the application.
-		
-		.DESCRIPTION
-			Sets the emulation of the WebBrowser control for the application using the installed version of IE.
-			This improves the WebBrowser control compatibility with newer html features.
-		
-		.PARAMETER ExecutableName
-			The name of the executable E.g. PowerShellStudio.exe.
-			Default Value: The running executable name.
-		
-		.EXAMPLE
-			PS C:\> Set-WebBrowserEmulation
-	
-		.EXAMPLE
-			PS C:\> Set-WebBrowserEmulation PowerShell.exe
-	#>
 	#Begin Region - Automatic System Information Gathering
+	#shortened my information gathering script to this as it was taking the script too long to load on startup. 
+
 	$CurrentUserName = [System.Security.Principal.WindowsIdentity]::GetCurrent().Name
 	[string]$ComputerName = $env:computername
 	$Computer = $ComputerName
 	$LoggedOnUser = (Get-WmiObject win32_computersystem -ComputerName $Computer).Username
-
 	$InstDate = (Get-CimInstance Win32_OperatingSystem).InstallDate
-
 	#End Region - Automatic System Information Gathering
 	
 	# Setting up Speech
@@ -174,10 +155,7 @@ function Show-ProfileBackup {
 	
 	# Setting voice
 	$speak.SelectVoice('Microsoft Zira Desktop')
-	
-	
-	
-	
+		
 	function Get-Inventory
 	{
 		$InventoryScript = cmd /c "net use"
@@ -205,11 +183,11 @@ function Show-ProfileBackup {
 		{
 			If ($checkboxNewComputer.Checked)
 			{
-				cmd /c 'start "" "%ProgramFiles(x86)%\Microsoft Office\Office16\Outlook.exe"'
-				cmd /c 'start "" "%ProgramFiles(x86)%\Google\Chrome\Application\chrome.exe"'
-				cmd /c 'start "" "%ProgramFiles%\Mozilla Firefox\firefox.exe"'
-				cmd /c 'start control'
-				cmd /c 'start control /name Microsoft.DevicesAndPrinters'
+					cmd /c 'start "" "%ProgramFiles(x86)%\Microsoft Office\Office16\Outlook.exe"'
+					cmd /c 'start "" "%ProgramFiles(x86)%\Google\Chrome\Application\chrome.exe"'
+					cmd /c 'start "" "%ProgramFiles%\Mozilla Firefox\firefox.exe"'
+					cmd /c 'start control'
+					cmd /c 'start control /name Microsoft.DevicesAndPrinters'	
 			}
 			If ($checkboxDesktop.Checked)
 			{
@@ -287,10 +265,10 @@ function Show-ProfileBackup {
 			}
 			If ($checkboxOneDrive.Checked)
 			{
-				Robocopy $source\ODBA $dest\ODBA *.* /E /ZB /J /LOG+:$source\desktop\backuplog.txt
 				Robocopy $source\OneDrive - Embry-Riddle Aeronautical University $dest\OneDrive - Embry-Riddle Aeronautical University.* /E /ZB /J /LOG+:$source\desktop\backuplog.txt
-				$richtextbox1.Text += "`OneDrive, and OneDrive-Not-Yet-Syncd-Files directory backed up successfully."
-				$speak.Speak("The OneDrive, and OneDrive-Not-Yet-Syncd-Files directories completed backing up. 96 percent complete")
+				
+				$richtextbox1.Text += "`OneDrive directory backed up successfully."
+				$speak.Speak("The OneDrive, directory completed backing up. 96 percent complete")
 				$richtextbox1.Text += "`n# # # # # # # # # #`n"
 				$ProgressBar1.Value = "96"
 				
@@ -298,6 +276,8 @@ function Show-ProfileBackup {
 			Robocopy $source\AppData\Roaming\Adobe\Acrobat\DC\Security $dest\AppData\Roaming\Adobe\Acrobat\DC\Security *.* /E /ZB /J /LOG+:$source\desktop\backuplog.txt
 			$richtextbox1.Text += "`nAdobe signature file backed up successfully."
 			$speak.Speak("The Adobe signature file completed backing up.")
+			$richtextbox1.Text += "`nOneDrive-Not-Yet-Syncd-Files directory backed up successfully."
+			$speak.Speak("OneDrive Not Yet Sinked Files directory backed up successfully.")
 			Robocopy $source\application data\microsoft\signatures $dest\application data\microsoft\signatures *.* /E /ZB /J /LOG+:$source\desktop\backuplog.txt
 			$richtextbox1.Text += "`nOutlook signature backed up successfully."
 			$speak.Speak("The Outlook signaturecompleted backing up. 98 percent complete")
@@ -313,20 +293,6 @@ function Show-ProfileBackup {
 			$result = [System.Windows.Forms.MessageBox]::Show('Unable to reach souce location!', 'Warning', 'YesNo', 'Warning')
 			$result
 		}
-	}
-	$checkboxDocuments_CheckedChanged={
-		#TODO: Place custom script here
-		
-	}
-	
-	$checkboxDownloads_CheckedChanged={
-		#TODO: Place custom script here
-		
-	}
-	
-	$checkboxDesktop_CheckedChanged={
-		#TODO: Place custom script here
-		
 	}
 	
 	$buttonBackup_Click={
