@@ -61,40 +61,40 @@ function Show-DomainTrustRelationship_psf {
 	#----------------------------------------------
 	
 	$computername = $env:COMPUTERNAME
-	$DomainName = 'DOMAIN'
+	$DomainName = 'DOMAIN.EDU'
 	
 	<# Adding testing the password with the domain controllers. #>
 	function testPassword
 	{
 		$passwordSyncStatus = Test-ComputerSecureChannel
+		$richtextbox1.Text = $passwordSyncStatus
 	}
 	
 	function repairPassword
 	{
 		$repairPasswordSync = Test-ComputerSecureChannel -Repair -Credential (Get-Credential)
+		$richtextbox1.Text = $repairPasswordSync
 	}
 	
 	function unJoinComputerRemote
 	{
-		
-		
 		$instance = Get-CimInstance -ComputerName $textbox3.Text -ClassName 'Win32_ComputerSystem'
-		
+		$SecureStringAsPlainText1 = $textbox2.Text | ConvertTo-SecureString -AsPlainText -Force
 		$invCimParams = @{
 			MethodName = 'UnjoinDomainOrWorkGroup'
-			Arguments  = @{ FUnjoinOptions = 0; Username = $textbox1.Text; Password = $textbox2.Text }
+			Arguments  = @{ FUnjoinOptions = 0; Username = $textbox1.Text; Password = $SecureStringAsPlainText1 }
 		}
 		$instance | Invoke-CimMethod @invCimParams
 	}
 	
 	function reJoinComputerRemote
 	{
-			
 		$instance = Get-CimInstance -ComputerName $textbox3.Text -ClassName 'Win32_ComputerSystem'
+		$SecureStringAsPlainText2 = $textbox2.Text | ConvertTo-SecureString -AsPlainText -Force
 		
 		$invCimParams = @{
 			MethodName = 'JoinDomainOrWorkGroup'
-			Arguments  = @{ FJoinOptions = 3; Name = DOMAIN; Username= $textbox1.Text; Password= $textbox2.Text }
+			Arguments  = @{ FJoinOptions = 3; Name = DOMAIN.edu; Username= $textbox1.Text; Password= $SecureStringAsPlainText2 }
 		}
 		$instance | Invoke-CimMethod @invCimParams
 	}
@@ -118,7 +118,7 @@ function Show-DomainTrustRelationship_psf {
 	
 	function Test-DomainTrust ($Computername)
 	{
-		$Result = netdom verify /domain:DOMAIN $env:COMPUTERNAME
+		$Result = netdom verify /domain:DOMAIN.edu $env:COMPUTERNAME
 		if ($Result -match 'command completed successfully')
 		{
 			$richtextbox1.Text = "Domain Trust Established. Nothing Needed."
