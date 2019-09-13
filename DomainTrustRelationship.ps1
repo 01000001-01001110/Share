@@ -9,7 +9,6 @@
 --------------------------------------------------------------------------------
 #>
 
-
 #----------------------------------------------
 #region Application Functions
 #----------------------------------------------
@@ -34,16 +33,17 @@ function Show-DomainTrustRelationship_psf {
 	[System.Windows.Forms.Application]::EnableVisualStyles()
 	$formTRR = New-Object 'System.Windows.Forms.Form'
 	$groupbox3 = New-Object 'System.Windows.Forms.GroupBox'
+	$labelRemoteComputerName = New-Object 'System.Windows.Forms.Label'
+	$textbox3 = New-Object 'System.Windows.Forms.TextBox'
 	$labelPassword = New-Object 'System.Windows.Forms.Label'
 	$labelUsername = New-Object 'System.Windows.Forms.Label'
 	$textbox2 = New-Object 'System.Windows.Forms.TextBox'
 	$textbox1 = New-Object 'System.Windows.Forms.TextBox'
 	$button2 = New-Object 'System.Windows.Forms.Button'
 	$button1 = New-Object 'System.Windows.Forms.Button'
-	$groupbox2 = New-Object 'System.Windows.Forms.GroupBox'
+	$groupbox1 = New-Object 'System.Windows.Forms.GroupBox'
 	$buttonCheckPassword = New-Object 'System.Windows.Forms.Button'
 	$buttonResetPassword = New-Object 'System.Windows.Forms.Button'
-	$groupbox1 = New-Object 'System.Windows.Forms.GroupBox'
 	$buttonTestTrustRelationshi = New-Object 'System.Windows.Forms.Button'
 	$buttonAssociateWithDomain = New-Object 'System.Windows.Forms.Button'
 	$buttonDissociateFromDomain = New-Object 'System.Windows.Forms.Button'
@@ -67,20 +67,18 @@ function Show-DomainTrustRelationship_psf {
 	function testPassword
 	{
 		$passwordSyncStatus = Test-ComputerSecureChannel
-        $richtextbox1.Text = $passwordSyncStatus
 	}
 	
 	function repairPassword
 	{
 		$repairPasswordSync = Test-ComputerSecureChannel -Repair -Credential (Get-Credential)
-        $richtextbox1.Text = $repairPasswordSync
 	}
 	
 	function unJoinComputerRemote
 	{
 		
 		
-		$instance = Get-CimInstance -ComputerName $computername -ClassName 'Win32_ComputerSystem'
+		$instance = Get-CimInstance -ComputerName $textbox3.Text -ClassName 'Win32_ComputerSystem'
 		
 		$invCimParams = @{
 			MethodName = 'UnjoinDomainOrWorkGroup'
@@ -92,7 +90,7 @@ function Show-DomainTrustRelationship_psf {
 	function reJoinComputerRemote
 	{
 			
-		$instance = Get-CimInstance -ComputerName $computername -ClassName 'Win32_ComputerSystem'
+		$instance = Get-CimInstance -ComputerName $textbox3.Text -ClassName 'Win32_ComputerSystem'
 		
 		$invCimParams = @{
 			MethodName = 'JoinDomainOrWorkGroup'
@@ -159,17 +157,6 @@ function Show-DomainTrustRelationship_psf {
 		repairPassword
 	}
 	
-	$textbox1_TextChanged={
-		#TODO: Place custom script here
-		
-	}
-	
-	$textbox2_TextChanged={
-		#TODO: Place custom script here
-		
-	}
-	
-	
 	# --End User Generated Script--
 	#----------------------------------------------
 	#region Generated Events
@@ -207,13 +194,11 @@ function Show-DomainTrustRelationship_psf {
 	#----------------------------------------------
 	$formTRR.SuspendLayout()
 	$groupbox1.SuspendLayout()
-	$groupbox2.SuspendLayout()
 	$groupbox3.SuspendLayout()
 	#
 	# formTRR
 	#
 	$formTRR.Controls.Add($groupbox3)
-	$formTRR.Controls.Add($groupbox2)
 	$formTRR.Controls.Add($groupbox1)
 	$formTRR.Controls.Add($richtextbox1)
 	$formTRR.Controls.Add($labelenvCOMPUTERNAME)
@@ -1809,24 +1794,43 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA')
 	#
 	# groupbox3
 	#
+	$groupbox3.Controls.Add($labelRemoteComputerName)
+	$groupbox3.Controls.Add($textbox3)
 	$groupbox3.Controls.Add($labelPassword)
 	$groupbox3.Controls.Add($labelUsername)
 	$groupbox3.Controls.Add($textbox2)
 	$groupbox3.Controls.Add($textbox1)
 	$groupbox3.Controls.Add($button2)
 	$groupbox3.Controls.Add($button1)
-	$groupbox3.Location = '-1, 290'
+	$groupbox3.Location = '-1, 260'
 	$groupbox3.Name = 'groupbox3'
-	$groupbox3.Size = '406, 83'
+	$groupbox3.Size = '406, 113'
 	$groupbox3.TabIndex = 15
 	$groupbox3.TabStop = $False
 	$groupbox3.Text = 'Remote Computer'
 	$groupbox3.UseCompatibleTextRendering = $True
 	#
+	# labelRemoteComputerName
+	#
+	$labelRemoteComputerName.AutoSize = $True
+	$labelRemoteComputerName.Location = '25, 22'
+	$labelRemoteComputerName.Name = 'labelRemoteComputerName'
+	$labelRemoteComputerName.Size = '136, 17'
+	$labelRemoteComputerName.TabIndex = 17
+	$labelRemoteComputerName.Text = 'Remote Computer Name: '
+	$labelRemoteComputerName.UseCompatibleTextRendering = $True
+	#
+	# textbox3
+	#
+	$textbox3.Location = '167, 19'
+	$textbox3.Name = 'textbox3'
+	$textbox3.Size = '214, 20'
+	$textbox3.TabIndex = 16
+	#
 	# labelPassword
 	#
 	$labelPassword.AutoSize = $True
-	$labelPassword.Location = '215, 46'
+	$labelPassword.Location = '211, 79'
 	$labelPassword.Name = 'labelPassword'
 	$labelPassword.Size = '57, 17'
 	$labelPassword.TabIndex = 15
@@ -1836,7 +1840,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA')
 	# labelUsername
 	#
 	$labelUsername.AutoSize = $True
-	$labelUsername.Location = '215, 25'
+	$labelUsername.Location = '211, 58'
 	$labelUsername.Name = 'labelUsername'
 	$labelUsername.Size = '63, 17'
 	$labelUsername.TabIndex = 14
@@ -1845,7 +1849,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA')
 	#
 	# textbox2
 	#
-	$textbox2.Location = '285, 45'
+	$textbox2.Location = '281, 78'
 	$textbox2.Name = 'textbox2'
 	$textbox2.Size = '100, 20'
 	$textbox2.TabIndex = 13
@@ -1853,7 +1857,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA')
 	#
 	# textbox1
 	#
-	$textbox1.Location = '285, 19'
+	$textbox1.Location = '281, 52'
 	$textbox1.Name = 'textbox1'
 	$textbox1.Size = '100, 20'
 	$textbox1.TabIndex = 12
@@ -1861,7 +1865,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA')
 	#
 	# button2
 	#
-	$button2.Location = '29, 48'
+	$button2.Location = '25, 81'
 	$button2.Name = 'button2'
 	$button2.Size = '145, 23'
 	$button2.TabIndex = 11
@@ -1873,7 +1877,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA')
 	#
 	# button1
 	#
-	$button1.Location = '29, 19'
+	$button1.Location = '25, 52'
 	$button1.Name = 'button1'
 	$button1.Size = '145, 23'
 	$button1.TabIndex = 10
@@ -1883,23 +1887,26 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA')
 	$button1.UseVisualStyleBackColor = $True
 	$button1.add_Click($button1_Click)
 	#
-	# groupbox2
+	# groupbox1
 	#
-	$groupbox2.Controls.Add($buttonCheckPassword)
-	$groupbox2.Controls.Add($buttonResetPassword)
-	$groupbox2.Location = '103, 181'
-	$groupbox2.Name = 'groupbox2'
-	$groupbox2.Size = '200, 100'
-	$groupbox2.TabIndex = 14
-	$groupbox2.TabStop = $False
-	$groupbox2.Text = 'Domain Password'
-	$groupbox2.UseCompatibleTextRendering = $True
+	$groupbox1.Controls.Add($buttonCheckPassword)
+	$groupbox1.Controls.Add($buttonResetPassword)
+	$groupbox1.Controls.Add($buttonTestTrustRelationshi)
+	$groupbox1.Controls.Add($buttonAssociateWithDomain)
+	$groupbox1.Controls.Add($buttonDissociateFromDomain)
+	$groupbox1.Location = '102, 66'
+	$groupbox1.Name = 'groupbox1'
+	$groupbox1.Size = '201, 143'
+	$groupbox1.TabIndex = 9
+	$groupbox1.TabStop = $False
+	$groupbox1.Text = 'Local Computer'
+	$groupbox1.UseCompatibleTextRendering = $True
 	#
 	# buttonCheckPassword
 	#
-	$buttonCheckPassword.Location = '48, 31'
+	$buttonCheckPassword.Location = '31, 88'
 	$buttonCheckPassword.Name = 'buttonCheckPassword'
-	$buttonCheckPassword.Size = '105, 23'
+	$buttonCheckPassword.Size = '138, 23'
 	$buttonCheckPassword.TabIndex = 12
 	$buttonCheckPassword.Text = 'Check Password'
 	$buttonCheckPassword.UseCompatibleTextRendering = $True
@@ -1908,28 +1915,15 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA')
 	#
 	# buttonResetPassword
 	#
-	$buttonResetPassword.Location = '48, 60'
+	$buttonResetPassword.Location = '31, 111'
 	$buttonResetPassword.Name = 'buttonResetPassword'
-	$buttonResetPassword.Size = '105, 23'
+	$buttonResetPassword.Size = '138, 23'
 	$buttonResetPassword.TabIndex = 13
 	$buttonResetPassword.Text = 'Reset Password'
 	$tooltip1.SetToolTip($buttonResetPassword, 'When you click reset password you will be prompted for a new one.')
 	$buttonResetPassword.UseCompatibleTextRendering = $True
 	$buttonResetPassword.UseVisualStyleBackColor = $True
 	$buttonResetPassword.add_Click($buttonResetPassword_Click)
-	#
-	# groupbox1
-	#
-	$groupbox1.Controls.Add($buttonTestTrustRelationshi)
-	$groupbox1.Controls.Add($buttonAssociateWithDomain)
-	$groupbox1.Controls.Add($buttonDissociateFromDomain)
-	$groupbox1.Location = '102, 66'
-	$groupbox1.Name = 'groupbox1'
-	$groupbox1.Size = '201, 109'
-	$groupbox1.TabIndex = 9
-	$groupbox1.TabStop = $False
-	$groupbox1.Text = 'Local Computer'
-	$groupbox1.UseCompatibleTextRendering = $True
 	#
 	# buttonTestTrustRelationshi
 	#
@@ -1944,7 +1938,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA')
 	#
 	# buttonAssociateWithDomain
 	#
-	$buttonAssociateWithDomain.Location = '31, 79'
+	$buttonAssociateWithDomain.Location = '31, 65'
 	$buttonAssociateWithDomain.Name = 'buttonAssociateWithDomain'
 	$buttonAssociateWithDomain.Size = '139, 23'
 	$buttonAssociateWithDomain.TabIndex = 8
@@ -1955,7 +1949,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA')
 	#
 	# buttonDissociateFromDomain
 	#
-	$buttonDissociateFromDomain.Location = '31, 49'
+	$buttonDissociateFromDomain.Location = '31, 42'
 	$buttonDissociateFromDomain.Name = 'buttonDissociateFromDomain'
 	$buttonDissociateFromDomain.Size = '139, 23'
 	$buttonDissociateFromDomain.TabIndex = 7
@@ -2015,7 +2009,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA')
 	# tooltip1
 	#
 	$groupbox3.ResumeLayout()
-	$groupbox2.ResumeLayout()
 	$groupbox1.ResumeLayout()
 	$formTRR.ResumeLayout()
 	#endregion Generated Form Code
